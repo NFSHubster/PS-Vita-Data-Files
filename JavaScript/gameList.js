@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Max Payne",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Max_Payne_Logo.svg/1920px-Max_Payne_Logo.svg.png?20220906141219",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/5f/e4/1e/5fe41e51-3d3b-d396-cb4a-923322bfe4b4/source/512x512bb.jpg",
       link: "https://www.mediafire.com/file/zed8eoxhab149g6/maxpayne.zip/file",
     },
     {
@@ -123,19 +123,19 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Final Fantasy 4",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse3.mm.bing.net/th?id=OIP.BQ-saEVLM4FxubmbkEkHVwHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%204%20%28ff4%29.zip",
     },
     {
       name: "Final Fantasy 5",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://gamefaqs.gamespot.com/a/box/7/8/8/929788_front.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
     },
     {
-      name: "Final Fantasy The After Years",
+      name: "Final Fantasy 4 The After Years",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse4.mm.bing.net/th?id=OIP.tCG0BHRvj65Z96Q_FgZx8gHaFP&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%20After%20Years%28ff4a%29.zip",
     },
     {
@@ -153,37 +153,37 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Tom Clancy's Splinter Cell: Conviction",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse1.mm.bing.net/th?id=OIP.xLFkavflwT49Gmc5tZesewHaHa&pid=Api&P=0&h=220",
       link: "https://www.mediafire.com/file/mn5cm5cac7l9cz2/splintercell.7z/file",
     },
     {
       name: "Crazy Taxi",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://app.famitsu.com/wp-content/uploads/2013/07/CRAZYTAXI_icon.jpg",
       link: "https://archive.org/download/crazy-taxi-game-for-ps-vita-non-pdrm/Crazy%20Taxi%20%28Game%20for%20PS%20Vita%29%20%28NonPdrm%29.rar",
     },
     {
       name: "Unsighted",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse1.mm.bing.net/th?id=OIP.PKBFPgr3WC2AIQszBTOPRQHaEK&pid=Api&P=0&h=220",
       link: "https://drive.google.com/file/d/1iSAoCEorNS-gWzyX1T7QVEYZe51szsrp/view?usp=sharing",
     },
     {
       name: "Zelda 3: A Link to the Past",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse1.mm.bing.net/th?id=OIP.npDfa7tiKQhZk4oQYkS9jQHaDt&pid=Api&P=0&h=220",
       link: "https://drive.google.com/file/d/1PJAKw_qIrWdo52eWjfVdxedS0aMnNtNd/view",
     },
     {
       name: "Super Mario 64",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse3.mm.bing.net/th?id=OIP.BvriPJra1wbseYngRo0dpwHaHa&pid=Api&P=0&h=220",
       link: "https://www.mediafire.com/file/4xe47qz7i8fw165/sm64.us.60fps.vpk/file",
     },
     {
       name: "Ultimate Spiderman: Total Mayhem",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple1/v4/7d/87/4a/7d874af2-b30a-ec51-fac8-b5ed01637a88/source/512x512bb.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Ultimate%20Spider-Man%3A%20Total%20Mayhem.zip",
     },
     {
@@ -195,91 +195,91 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Spelunky Classic HD",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse2.mm.bing.net/th?id=OIP.9A4Bdw6OQk3NoFPAVgXOvAHaEK&pid=Api&P=0&h=220",
       link: "https://github.com/SiulPop/Spelunky.Classic.HD.VITA./releases/download/speunky.vita/Spelunky-Classic.VPK",
     },
     {
       name: "Soul Calibur",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse3.mm.bing.net/th?id=OIP._7mfXaj49MEgmROnFbUBqQHaEK&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Soulcalibur.zip",
     },
     {
       name: "AM2R",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://m.media-amazon.com/images/M/MV5BZWQ4Yzk0NjEtOGMxYy00NmRkLTg1ODYtYWE4NDI2Zjk2M2ZkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
       link: "https://drive.google.com/file/d/1uLrBPL4MDjNAYxmXjdQk1cV2aYBj7ies/view",
     },
     {
       name: "Jump King",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1061090/capsule_616x353.jpg?t=1688636948",
       link: "https://github.com/Rocroverss/JumpKingGodot/releases/download/v1.01/JumpKing.vpk",
     },
     {
       name: "The World Ends With You",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse2.mm.bing.net/th?id=OIP.h2kHcNK_2Z7ljkNiwe2YEQHaEK&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/The%20World%20Ends%20With%20Youzip",
     },
     {
       name: "Driver 2",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse1.mm.bing.net/th?id=OIP.OXyJh4K94zcBacEbeZu1OgHaLH&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Driver%202.zip",
     },
     {
       name: "Wolfenstein 3D",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse1.mm.bing.net/th?id=OIP.dWQe_npr_8OFF0Q-OWUUFwHaF0&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Wolfenstein%203D.zip",
     },
     {
       name: "Doom RPG",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse1.mm.bing.net/th?id=OIP.eaOH_WAZo3mnoL6A8TqtzAHaLH&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/DoomRPG.zip",
     },
     {
       name: "Mario Kart Vita",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://i.ytimg.com/vi/S26g76PYVzk/maxresdefault.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Mario%20Kart%20Vita.zip",
     },
     {
       name: "Minecraft Enhanced",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://preview.redd.it/release-minecraft-enhanced-by-pg-team-mod-v0-iexzwtxzlapb1.png?width=1080&crop=smart&auto=webp&s=2bc3bd1aac4c8f406e428c7b98f1e4c18304ac9d",
       link: "https://mega.nz/folder/eR0DlDiB#TOeKW_YrHnMvxGeqXUcryg",
     },
     {
       name: "Minecraft Updated: 1st file",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
       link: "https://www.mediafire.com/file/5s1jf3qrliycttx/Minecraft_Updated_RePatch.zip/file",
     },
     {
       name: "Minecraft Updated: 2nd file",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
       link: "https://www.mediafire.com/file/lqcgwqg1dsbvd2z/mcu_1.1.zip/file",
     },
     {
       name: "Doom 64EX",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse1.mm.bing.net/th?id=OIP.UnE8kJILj547Sk1HTg1Z1gHaGq&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Doom64EX%20%28Steam%20Version%29.zip",
     },
     {
       name: "Nazi Zombies Portable",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xm1.jpg",
       link: "https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-vita.zip",
     },
     {
       name: "Geometry Dash",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse3.mm.bing.net/th?id=OIP.a8d4S89rLaFnTwU2Ue2_cAHaEK&pid=Api&P=0&h=220",
       link: "https://www.mediafire.com/file/x74x5a97qflan7m/GD-v1.01.zip/file",
     },
     {
@@ -291,25 +291,25 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Quake 2",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://cdn1.epicgames.com/offer/a5434b28a3ac403e966478e86a839f5b/EGS_QuakeII_idSoftware_S2_1200x1600-6123414858c2f24e8f760ba637155c8c",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake2.zip",
     },
     {
       name: "Quake 3",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse4.mm.bing.net/th?id=OIP.fexGazLvocm3sLVgsbfVawHaLH&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake%203.zip",
     },
     {
       name: "Let's Golf 2",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://www.giantbomb.com/a/uploads/original/10/103881/2417712-let_s_golf__2_main.jpg",
       link: "https://www.mediafire.com/file/g9m8us89k5tn4f4/letsgolf2.7z/file",
     },
     {
       name: "Real Football 2011",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://cdn.mobygames.com/screenshots/16360155-real-soccer-2011-j2me-title-screen.png",
       link: "https://www.mediafire.com/file/tleqenm0oqj7bbf/realfootball.7z/file",
     },
   ];
