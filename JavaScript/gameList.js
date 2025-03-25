@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Simpsons Hit & Run",
       image:
-        "https://tse2.mm.bing.net/th?id=OIP.VYmBtZg38LDW7z2FdmfG7AHaJn&pid=Api&P=0&h=220",
+        "https://gbatemp.net/attachments/the-simpsons-hit-run-01ad26d9bb584000-jpg.400032/",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z",
     },
     {
@@ -208,7 +208,7 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "AM2R",
       image:
         "https://www.itechgyan.com/wp-content/uploads/2017/11/am2r-download.png",
-      link: "https://drive.google.com/file/d/1uLrBPL4MDjNAYxmXjdQk1cV2aYBj7ies/view",
+      link: "https://drive.google.com/file/d/1uLrBPL4MDjNAYxmXjdQk1cV2aYBj7ies/view?pli=1",
     },
     {
       name: "Jump King",
@@ -243,7 +243,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Mario Kart Vita",
       image:
-        "https://i.ytimg.com/vi/S26g76PYVzk/maxresdefault.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjDp7EjaC97K6Dxeat_2-c_JTsCR-sgkIcw&s",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Mario%20Kart%20Vita.zip",
     },
     {
@@ -279,7 +279,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Geometry Dash",
       image:
-        "https://tse3.mm.bing.net/th?id=OIP.a8d4S89rLaFnTwU2Ue2_cAHaEK&pid=Api&P=0&h=220",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Logo_of_Geometry_Dash.svg/800px-Logo_of_Geometry_Dash.svg.png",
       link: "https://www.mediafire.com/file/x74x5a97qflan7m/GD-v1.01.zip/file",
     },
     {
@@ -303,8 +303,14 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Let's Golf 2",
       image:
-        "https://www.giantbomb.com/a/uploads/original/10/103881/2417712-let_s_golf__2_main.jpg",
+        "https://upload.wikimedia.org/wikipedia/en/0/01/Let%27s_Golf_2_Cover.jpg",
       link: "https://www.mediafire.com/file/g9m8us89k5tn4f4/letsgolf2.7z/file",
+      },
+      {
+      name: "Super Mario World",
+      image:
+        "https://tse4.mm.bing.net/th?id=OIP.VUi0UwdFc5W6koHYpfT1WAHaHa&pid=Api&P=0&h=220",
+      link: "https://www.mediafire.com/file/90r5gzd8jylrpkh/SMW.zip",
     },
     {
       name: "Real Football 2011",
