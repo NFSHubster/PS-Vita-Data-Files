@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Balatro",
       image:
-        "https://clan.fastly.steamstatic.com/images/44208250/7c77ae325131b1f46f2e94ebac8f55c8d1dbaf13.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202401/2218/d8c5d5861249cd80a300efb723450f56d0347e4345e2eb80.png",
       link: "https://www.mediafire.com/file/o5f7z5l2m8o8b97/Balatro_V0.11.vpk/file",
     },
     {
@@ -135,7 +135,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Final Fantasy 4 The After Years",
       image:
-        "https://www.gamespot.com/a/uploads/scale_medium/mig/1/9/2/8/2221928-final_fantasy_iv_the_after.jpg",
+        "https://tse3.mm.bing.net/th?id=OIP.iAzlMiMXLdHus_aP5ERY5QHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%20After%20Years%28ff4a%29.zip",
     },
     {
@@ -147,7 +147,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Fallout 2",
       image:
-        "https://static.displate.com/857x1200/displate/2022-07-07/7cb2000237f242871a7afabd8debff85_73b7bfcae4c571944fc9235c9749a348.jpg",
+        "https://tse3.mm.bing.net/th?id=OIP.da52RgYN84U8Vclwfp6pXgHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/fallout2.zip",
     },
     {
@@ -189,13 +189,13 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Tomb Raider 1 & 2 Classic",
       image:
-        "https://tse4.mm.bing.net/th?id=OIP.FR73-45zgpv7hirisEuXhwHaEK&pid=Api&P=0&h=220",
+        "https://archive.org/download/tomb-raider-i/m_tomb-raider-i.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Tomb%20Raider%201%20and%202%20Classic%20v1.0.2.zip",
     },
     {
       name: "Spelunky Classic HD",
       image:
-        "https://tse2.mm.bing.net/th?id=OIP.9A4Bdw6OQk3NoFPAVgXOvAHaEK&pid=Api&P=0&h=220",
+        "https://tse2.mm.bing.net/th?id=OIP.eOLMS4QUJMZ6VC1eTt1ZigHaHa&pid=Api&P=0&h=220",
       link: "https://github.com/SiulPop/Spelunky.Classic.HD.VITA./releases/download/speunky.vita/Spelunky-Classic.VPK",
     },
     {
@@ -207,7 +207,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "AM2R",
       image:
-        "https://m.media-amazon.com/images/M/MV5BZWQ4Yzk0NjEtOGMxYy00NmRkLTg1ODYtYWE4NDI2Zjk2M2ZkXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg",
+        "https://www.itechgyan.com/wp-content/uploads/2017/11/am2r-download.png",
       link: "https://drive.google.com/file/d/1uLrBPL4MDjNAYxmXjdQk1cV2aYBj7ies/view",
     },
     {
