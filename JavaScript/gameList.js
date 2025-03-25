@@ -15,109 +15,109 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Grand Theft Auto San Andreas",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grand_Theft_Auto_San_Andreas_logo.svg/800px-Grand_Theft_Auto_San_Andreas_logo.svg.png",
       link: "https://www.mediafire.com/file/nl15z2mhs4lg947/gtasa.zip/file",
     },
     {
       name: "Grand Theft Auto Chinatown Wars",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grand_Theft_Auto_Chinatown_Wars_logo.png/800px-Grand_Theft_Auto_Chinatown_Wars_logo.png",
       link: "https://www.mediafire.com/file/z1h025ydqjekoc2/gtactw.zip/file",
     },
     {
       name: "Max Payne",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Max_Payne_Logo.svg/1920px-Max_Payne_Logo.svg.png?20220906141219",
       link: "https://www.mediafire.com/file/zed8eoxhab149g6/maxpayne.zip/file",
     },
     {
       name: "Bully",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://upload.wikimedia.org/wikipedia/en/6/63/Bully_frontcover.jpg",
       link: "https://www.mediafire.com/file/zqfbomec81ixu69/Bully.zip/file",
     },
     {
       name: "Hollow Knight",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "http://upload.wikimedia.org/wikipedia/en/thumb/0/04/Hollow_Knight_first_cover_art.webp/220px-Hollow_Knight_first_cover_art.webp.png",
       link: "https://drive.google.com/file/d/1a_sRARvwmFn3da-TPp4hxY78hhNkkSW9/view?usp=sharing",
     },
     {
       name: "Cuphead",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://image.api.playstation.com/vulcan/img/cfn/11307fllh6D-IvbpCa18N0vRggVeRYWA06paTNCj3DENJMScAzW2f3ry4IwFcXBAt9kWXdZGpGoOGjxJ_e9MdordMVAosNhZ.png",
       link: "https://drive.google.com/file/d/1rbqc04E4IZXZD3RtTR5cIxkKsohHM4AQ/view?usp=sharing",
     },
     {
       name: "Balatro",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://clan.fastly.steamstatic.com/images/44208250/7c77ae325131b1f46f2e94ebac8f55c8d1dbaf13.png",
       link: "https://www.mediafire.com/file/o5f7z5l2m8o8b97/Balatro_V0.11.vpk/file",
     },
     {
       name: "devilutionX/Diablo 1",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://play-lh.googleusercontent.com/TkJVdT7FvFf16WmqxKp9XfJ7Pjy0a0GhVo3gXYk6OeTn7d59SF4K0Fst2cAf2xAyIA",
       link: "https://www.mediafire.com/folder/2tc0z0a56a0ye/diasurgical",
     },
     {
       name: "Blasphemous",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://cdn1.epicgames.com/offer/eddb735dde6b47cda8193f2643cff886/EGS_Blasphemous_TheGameKitchen_S3_2560x1440-f1a83630b91b3f128e8f9dd58f3f8eed",
       link: "https://www.mediafire.com/file/1958318axcnco2k/Blasphemous_Vita_Port.7z/file",
     },
     {
-      name: "xash3d/Half-Life",
+      name: "xash3d/Half-Life & Counter Strike",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
-      link: "https://www.mediafire.com/file_premium/nr1rdblqf4jjyhk/xash3d.zip/file",
+        "https://media.moddb.com/images/articles/1/260/259974/xash_logo_1024x768.jpg",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/Half%20Life%20%2B%20Counter%20Strike%20%28xash3d%29.zip",
     },
     {
       name: "Dead Space Mobile",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://assets-prd.ignimgs.com/2023/01/14/deadspacem-1673686414670.jpg",
       link: "https://drive.google.com/file/d/1AGOIwAghBotGb7fyeVfVHC8sqOUG0Wss/view?usp=sharing",
     },
     {
       name: "Battlefield Bad Company 2",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://assets-prd.ignimgs.com/2022/01/04/battlefield-bad-company-2-button-crop-1641279153499.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Battlefield%3A%20Bad%20Company%202.zip",
     },
     {
       name: "Need for Speed: Hot Pursuit",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://vignette.wikia.nocookie.net/nfs/images/4/4d/NFSHP2010_Boxart.jpg/revision/latest?cb=20180228233822&path-prefix=en",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/NFS%20Hot%20Pursuit.zip",
     },
     {
       name: "Mass Effect",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://i.ytimg.com/vi/ihymbMpddQU/maxresdefault.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/masseffect.zip",
     },
     {
       name: "Simpsons Hit & Run",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://gametrex.com/wp-content/uploads/2019/03/The-Simpsons-Hit-Run-Free-Download.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z",
     },
     {
       name: "Aurelia (NSFW)",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse2.mm.bing.net/th?id=OIP.ylkx2w7ncicqkrEh-NwxlwAAAA&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Aurelia%20%28NSFW%29.zip",
     },
     {
       name: "Final Fantasy Dimensions",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://i.ytimg.com/vi/fNL9Hyik0mY/maxresdefault.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Fina%20Fantasy%20Dimensions.zip",
     },
     {
       name: "Final Fantasy 3",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202301/1210/7SjuZOeJFmJutHbNviOsfhHa.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%203%20%28ff3%29.zip",
     },
     {
