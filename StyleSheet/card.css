@@ -1,0 +1,13 @@
+.card-overview {
+    max-width: 250px;
+  }
+
+  .card-overview small {
+    color: var(--sl-color-neutral-500);
+  }
+
+  .card-overview [slot='footer'] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }

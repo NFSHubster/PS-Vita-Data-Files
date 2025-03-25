@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+  --background-color: #1a1a1e; /* Light Blue */
+  --navbar-color: #f5f5f5; /* Soft Blue */
+  --text-color: #000000; /* Deep Blue */
+  --optional-color: #42a5f5; /* Vibrant Blue */
+  --highlighted-color: #1e88e5; /* Medium Blue */
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+  font-family: "Inter", sans-serif;
+  color: var(--navbar-color);
+  display: flex;
+  width: 100%;
+}
+
+/* Style the button */
+.sidebar-button::part(base) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white; /* Change text color */
+  font-size: 20px; /* Increase font size */
+  padding: 0px; /* Adjust padding */
+  border-radius: 5px; /* Round the corners */
+  transition: background 0.3s ease-in-out;
+  height: 30px;
+  width: 40px;
+}
+/* Make the button bigger */
+.sidebar-button::part(base) {
+  height: 30px;
+  width: 40px;
+}
+
+.search-button::part(base) {
+  margin-left: 5px;
+}
+
+/* Remove default link styling inside sl-menu-item */
+sl-menu-item a {
+  color: inherit !important; /* Inherit color from sl-menu-item */
+  text-decoration: none !important; /* Remove underline */
+  display: flex; /* Ensures proper alignment */
+  align-items: center; /* Vertically centers text */
+  width: 100%; /* Makes the anchor fill the menu item */
+  height: 100%; /* Ensures full clickable area */
+  padding: inherit; /* Keep the same padding as sl-menu-item */
+}
+
+/* Ensure the hover effect applies to the whole item, including the link */
+sl-menu-item:hover {
+  background-color: var(--sl-color-primary-100); /* Same as default hover */
+}
+
+/* Optional: Remove focus outline if needed */
+sl-menu-item a:focus {
+  outline: none;
+}
+
+.sidebar {
+  display: flex;
+  width: 100%;
+  margin: 10px;
+}
+
