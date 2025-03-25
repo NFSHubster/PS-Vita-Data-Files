@@ -33,13 +33,13 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Bully",
       image:
-        "https://upload.wikimedia.org/wikipedia/en/6/63/Bully_frontcover.jpg",
+        "https://tse3.mm.bing.net/th?id=OIP.qZl_15lW2n0hv2THdD3czAHaHa&pid=Api&P=0&h=220",
       link: "https://www.mediafire.com/file/zqfbomec81ixu69/Bully.zip/file",
     },
     {
       name: "Hollow Knight",
       image:
-        "http://upload.wikimedia.org/wikipedia/en/thumb/0/04/Hollow_Knight_first_cover_art.webp/220px-Hollow_Knight_first_cover_art.webp.png",
+        "https://tse3.mm.bing.net/th?id=OIP.yksrDyeoiGInEdKYFyreeQHaHa&pid=Api&P=0&h=220",
       link: "https://drive.google.com/file/d/1a_sRARvwmFn3da-TPp4hxY78hhNkkSW9/view?usp=sharing",
     },
     {
@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Simpsons Hit & Run",
       image:
-        "https://gametrex.com/wp-content/uploads/2019/03/The-Simpsons-Hit-Run-Free-Download.jpg",
+        "https://tse2.mm.bing.net/th?id=OIP.VYmBtZg38LDW7z2FdmfG7AHaJn&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z",
     },
     {
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Final Fantasy Dimensions",
       image:
-        "https://i.ytimg.com/vi/fNL9Hyik0mY/maxresdefault.jpg",
+        "https://assets-prd.ignimgs.com/2022/05/23/ffdimensions-1653332120734.jpg?width=300&crop=1:1%2Csmart",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Fina%20Fantasy%20Dimensions.zip",
     },
     {
@@ -135,19 +135,19 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Final Fantasy 4 The After Years",
       image:
-        "https://tse4.mm.bing.net/th?id=OIP.tCG0BHRvj65Z96Q_FgZx8gHaFP&pid=Api&P=0&h=220",
+        "https://www.gamespot.com/a/uploads/scale_medium/mig/1/9/2/8/2221928-final_fantasy_iv_the_after.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%20After%20Years%28ff4a%29.zip",
     },
     {
       name: "Fallout 1",
       image:
-        "https://pngset.com/images/fallout-1-logo-2-image-fallout-logo-text-symbol-label-light-transparent-png-2933755.png",
+        "https://tse3.mm.bing.net/th?id=OIP.m-VnS-lJUxPeUGz3MmOKhAAAAA&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/fallout.7z",
     },
     {
       name: "Fallout 2",
       image:
-        "https://cdn.wikimg.net/en/strategywiki/images/c/cb/Fallout_2_logo.png",
+        "https://static.displate.com/857x1200/displate/2022-07-07/7cb2000237f242871a7afabd8debff85_73b7bfcae4c571944fc9235c9749a348.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/fallout2.zip",
     },
     {
@@ -171,7 +171,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Zelda 3: A Link to the Past",
       image:
-        "https://tse1.mm.bing.net/th?id=OIP.npDfa7tiKQhZk4oQYkS9jQHaDt&pid=Api&P=0&h=220",
+        "https://tse2.mm.bing.net/th?id=OIP.iyXfCHXe45Y5MD24BM4yxgHaHa&pid=Api&P=0&h=220",
       link: "https://drive.google.com/file/d/1PJAKw_qIrWdo52eWjfVdxedS0aMnNtNd/view",
     },
     {
