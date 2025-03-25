@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Blasphemous",
       image:
-        "https://cdn1.epicgames.com/offer/eddb735dde6b47cda8193f2643cff886/EGS_Blasphemous_TheGameKitchen_S3_2560x1440-f1a83630b91b3f128e8f9dd58f3f8eed",
+        "https://images.nintendolife.com/2de5ec267262e/blasphemous-cover.cover_large.jpg",
       link: "https://www.mediafire.com/file/1958318axcnco2k/Blasphemous_Vita_Port.7z/file",
     },
     {
@@ -141,13 +141,13 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Fallout 1",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://pngset.com/images/fallout-1-logo-2-image-fallout-logo-text-symbol-label-light-transparent-png-2933755.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/fallout.7z",
     },
     {
       name: "Fallout 2",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://cdn.wikimg.net/en/strategywiki/images/c/cb/Fallout_2_logo.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/fallout2.zip",
     },
     {
@@ -189,7 +189,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Tomb Raider 1 & 2 Classic",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://tse4.mm.bing.net/th?id=OIP.FR73-45zgpv7hirisEuXhwHaEK&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Tomb%20Raider%201%20and%202%20Classic%20v1.0.2.zip",
     },
     {
@@ -285,7 +285,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Quake",
       image:
-        "https://www.bowlerssupply.com/wp-content/uploads/2024/04/No_image_available.svg.png",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0404/MqhhoiKkeruDNT1cwDhLcYrx.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake.zip",
     },
     {
