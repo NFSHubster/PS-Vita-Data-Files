@@ -3,13 +3,13 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Grand Theft Auto III",
       image:
-        "https://pngset.com/images/grand-theft-auto-iii-logo-grand-theft-auto-3-logo-text-scoreboard-label-stencil-transparent-png-501789.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grand_Theft_Auto_III_logo.svg/800px-Grand_Theft_Auto_III_logo.svg.png",
       link: "https://www.mediafire.com/file/nfcc6u938mxnmgs/gta3.zip/file",
     },
     {
       name: "Grand Theft Auto Vice City",
       image:
-        "https://flyclipart.com/thumb2/grand-theft-auto-vice-city-logo-png-transparent-vector-836134.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grand_Theft_Auto_Vice_City_logo.svg/545px-Grand_Theft_Auto_Vice_City_logo.svg.png?20200424174037",
       link: "https://www.mediafire.com/file/cpnu899gis7hzzq/gtavc.zip/file",
     },
     {
