@@ -103,12 +103,6 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z",
     },
     {
-      name: "Aurelia (NSFW)",
-      image:
-        "https://tse2.mm.bing.net/th?id=OIP.ylkx2w7ncicqkrEh-NwxlwAAAA&pid=Api&P=0&h=220",
-      link: "https://archive.org/download/psv-homebrew/Data%20Files/Aurelia%20%28NSFW%29.zip",
-    },
-    {
       name: "Final Fantasy Dimensions",
       image:
         "https://assets-prd.ignimgs.com/2022/05/23/ffdimensions-1653332120734.jpg?width=300&crop=1:1%2Csmart",
@@ -343,6 +337,12 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://www.mediafire.com/file/90r5gzd8jylrpkh/SMW.zip",
     },
     {
+      name: "Dungeons and Degenerate Gamblers",
+      image:
+        "https://tse1.mm.bing.net/th?id=OIP.qWCtx525XkFaMRQFqX_SxgHaEK&pid=Api&P=0&h=220",
+      link: "https://pixeldrain.com/u/K5exdgSd",
+    },
+    {
       name: "Real Football 2011",
       image:
         "https://cdn.mobygames.com/screenshots/16360155-real-soccer-2011-j2me-title-screen.png",
@@ -367,6 +367,12 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic2.zip",
     },
     {
+      name: "Sonic 3 A.I.R",
+      image:
+        "https://i.ytimg.com/vi/U3oQl12XQAs/maxresdefault.jpg",
+      link: "https://www.mediafire.com/file_premium/fxod0clmxnunli8/Sonic_3_A.I.R._PS_VITA_PORT_%255BData_Files_%2526_VPK_Included%255D.zip/file",
+    },
+    {
       name: "Sonic CD",
       image:
         "https://tse2.mm.bing.net/th?id=OIP.W0M0trBgBYrQ-ARz9RrtBAHaHa&pid=Api&P=0&h=220",
@@ -383,6 +389,54 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://steamcdn-a.akamaihd.net/steam/apps/1067850/header.jpg?t=1564463264",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Kindergarten%202.vpk",
+    },
+    {
+      name: "Portal",
+      image:
+        "https://tse4.mm.bing.net/th?id=OIP.eoD86qAF9q8meopfwBJYGQHaHa&pid=Api&P=0&h=220",
+      link: "https://mega.nz/file/tRMy1DJI#LU-PwN0-BDkNTu01gJgVRXdWGjOzwYRwh4gNyE7wZK4",
+    },
+    {
+      name: "LEGO Star Wars: The Complete Saga",
+      image:
+        "https://tse1.mm.bing.net/th?id=OIP.cj4Bc4gK-plyBZACxHrHKgAAAA&pid=Api&P=0&h=220",
+      link: "https://www.mediafire.com/file/2qhxrbu0k14jk4o/lswtcs.zip/file",
+    },
+    {
+      name: "Dirty Fantasy (NSFW)",
+      image:
+        "https://img.itch.zone/aW1nLzE4MzE5NzExLmpwZw==/315x250%23c/vo81Og.jpg",
+      link: "https://www.mediafire.com/folder/j2t5pur6nz6jp/Dirty+Fantasy",
+    },
+    {
+      name: "Pirate Trainer (NSFW)",
+      image:
+        "https://tse4.mm.bing.net/th?id=OVP.SK0xZ9YbSaZSK3WBcvWuVgHgFo&pid=Api&h=360&w=480&c=7&rs=1",
+      link: "https://www.mediafire.com/file/sribf1xm9rss22i/Pirate_Trainer-01.00.vpk/file",
+    },
+    {
+      name: "A New Dawn (NSFW)",
+      image:
+        "https://img.itch.zone/aW1nLzgxMzE2NzQuanBlZw==/original/hCsY%2Bw.jpeg",
+      link: "https://www.mediafire.com/file/4udpzvcqxw86x7k/A_New_Dawn-01.00.vpk/file",
+    },
+    {
+      name: "Aurelia (NSFW)",
+      image:
+        "https://tse2.mm.bing.net/th?id=OIP.ylkx2w7ncicqkrEh-NwxlwAAAA&pid=Api&P=0&h=220",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/Aurelia%20%28NSFW%29.zip",
+    },
+    {
+      name: "SiNiSistar (NSFW)",
+      image:
+        "https://media.discordapp.net/attachments/1319890020060102747/1320894262333804616/401723_RJ247641_img_main.png?ex=67e48c25&is=67e33aa5&hm=be4cdf29058c7bd67e5c66e793bc83889227196af866fde66f50d76bf7208461&=&format=webp&quality=lossless",
+      link: "https://www.mediafire.com/file/axsoccatqv63rbr/SiNiSistar_Alpha_v0.5.vpk/file",
+    },
+    {
+      name: "Sakura Hime (NSFW)",
+      image:
+        "https://media.discordapp.net/attachments/1319890020060102747/1320623890568970271/capsule_616x353.png?ex=67e4e1d7&is=67e39057&hm=93316c1ffa90fa1a3139d07d0650b20ae2bd53659f19a27603885ca017d54f7d&=&format=webp&quality=lossless",
+      link: "https://cdn.discordapp.com/attachments/1319890020060102747/1320623985171632280/Sakura_Hime_Beta_v0.8.vpk?ex=67e4e1ee&is=67e3906e&hm=c1fe41854a4fd3410305bdc8e260514b6f19f20dc07f0c366a703fe9ecb04765&",
     },
   ];
 
