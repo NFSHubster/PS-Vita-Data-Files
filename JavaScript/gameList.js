@@ -235,12 +235,6 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Wolfenstein%203D.zip",
     },
     {
-      name: "Doom RPG",
-      image:
-        "https://tse1.mm.bing.net/th?id=OIP.eaOH_WAZo3mnoL6A8TqtzAHaLH&pid=Api&P=0&h=220",
-      link: "https://archive.org/download/psv-homebrew/Data%20Files/DoomRPG.zip",
-    },
-    {
       name: "Mario Kart Vita",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjDp7EjaC97K6Dxeat_2-c_JTsCR-sgkIcw&s",
@@ -263,6 +257,12 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
       link: "https://www.mediafire.com/file/lqcgwqg1dsbvd2z/mcu_1.1.zip/file",
+    },    
+    {
+      name: "Doom RPG",
+      image:
+        "https://tse1.mm.bing.net/th?id=OIP.eaOH_WAZo3mnoL6A8TqtzAHaLH&pid=Api&P=0&h=220",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/DoomRPG.zip",
     },
     {
       name: "Doom 64EX",
@@ -317,6 +317,12 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://cdn.mobygames.com/screenshots/16360155-real-soccer-2011-j2me-title-screen.png",
       link: "https://www.mediafire.com/file/tleqenm0oqj7bbf/realfootball.7z/file",
+    },
+    {
+      name: "Sonic Mania",
+      image:
+        "https://cdn.discordapp.com/attachments/1300402299356844053/1354377614583922834/images_13.jpg?ex=67e511f2&is=67e3c072&hm=62818536f91b519b2c57febd2e0610617fa0d2803eb68735c5532991c0f62d0c&",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic%20Mania.7z",
     },
   ];
 
