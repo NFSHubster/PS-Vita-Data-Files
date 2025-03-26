@@ -229,6 +229,12 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Driver%202.zip",
     },
     {
+      name: "Return To The Castle: Wolfenstein",
+      image:
+        "http://images5.fanpop.com/image/photos/25400000/Return-to-Castle-Wolfenstein-wolfenstein-25491959-1280-960.jpg",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Return%20to%20Castle%20Wolfenstein.7z",
+    },
+    {
       name: "Wolfenstein 3D",
       image:
         "https://tse1.mm.bing.net/th?id=OIP.dWQe_npr_8OFF0Q-OWUUFwHaF0&pid=Api&P=0&h=220",
@@ -239,6 +245,12 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjDp7EjaC97K6Dxeat_2-c_JTsCR-sgkIcw&s",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Mario%20Kart%20Vita.zip",
+    },
+    {
+      name: "Bugdom",
+      image:
+        "http://www.mobygames.com/images/covers/l/11020-bugdom-windows-front-cover.jpg",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Bugdom.vpk",
     },
     {
       name: "Minecraft Enhanced",
@@ -257,6 +269,18 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
       link: "https://www.mediafire.com/file/lqcgwqg1dsbvd2z/mcu_1.1.zip/file",
+    },
+    {
+      name: "Borderlands 2 Patch",
+      image:
+        "https://tse3.mm.bing.net/th?id=OIP.y-_O8XY42vAJxufgVxf5JwHaHa&pid=Api&P=0&h=220",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Borderlands%202%20Patch.7z",
+    },
+    {
+      name: "Need For Speed: Most Wanted Upgrades",
+      image:
+        "https://tse3.mm.bing.net/th?id=OIP.q_LYK8LK1fyMx8SWhzyDZwHaHa&pid=Api&P=0&h=220",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Need%20for%20Speed%20Most%20Wanted%20Upgrades.7z",
     },    
     {
       name: "Doom RPG",
@@ -275,6 +299,12 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xm1.jpg",
       link: "https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-vita.zip",
+    },
+    {
+      name: "Duke Nukem 3D",
+      image:
+        "https://tse1.mm.bing.net/th?id=OIP.MX_SF_zmxKsAcIhs7F9yuAHaJW&pid=Api&P=0&h=220",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Duke%20Nukem%203D.7z",
     },
     {
       name: "Geometry Dash",
@@ -323,6 +353,36 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://cdn.discordapp.com/attachments/1300402299356844053/1354377614583922834/images_13.jpg?ex=67e511f2&is=67e3c072&hm=62818536f91b519b2c57febd2e0610617fa0d2803eb68735c5532991c0f62d0c&",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic%20Mania.7z",
+    },
+    {
+      name: "Sonic 1",
+      image:
+        "https://screenshots.gamebanana.com/img/ss/requests/5fa9e4727368f.jpg",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic1.zip",
+    },
+    {
+      name: "Sonic 2",
+      image:
+        "https://play-lh.googleusercontent.com/_osEK-4f1M2v_XdutbH3Mc4655GV2HJJ0q3uI62uSwv0TVDgIo5yXawRo_InTUifq0Q",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic2.zip",
+    },
+    {
+      name: "Sonic CD",
+      image:
+        "https://tse2.mm.bing.net/th?id=OIP.W0M0trBgBYrQ-ARz9RrtBAHaHa&pid=Api&P=0&h=220",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/SonicCD.zip",
+    },
+    {
+      name: "Kindergarten 1",
+      image:
+        "https://i.ytimg.com/vi/_bLPYq1y6sA/maxresdefault.jpg",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Kindergarten%201.vpk",
+    },
+    {
+      name: "Kindergarten 2",
+      image:
+        "https://steamcdn-a.akamaihd.net/steam/apps/1067850/header.jpg?t=1564463264",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Kindergarten%202.vpk",
     },
   ];
 
