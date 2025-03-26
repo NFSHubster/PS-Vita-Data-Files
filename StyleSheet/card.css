@@ -1,13 +1,111 @@
-.card-overview {
-    max-width: 250px;
+#gameList {
+  width: 98%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  padding: 10px;
+}
+
+.game-card {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  width: 31%;
+  min-width: 200px;
+  border: 1px solid rgb(90, 90, 90);
+  border-radius: 10px;
+  align-items: center;
+  gap: 10px;
+  padding: 15px;
+  background-color: #222;
+  color: white;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.game-card:hover {
+  transform: scale(1.02);
+}
+
+.game-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.game-card img {
+  width: 6em;
+  height: 6em;
+  border: 1px solid white;
+  border-radius: 5px;
+  object-fit: contain;
+  padding: 1px;
+}
+
+.game-card label {
+  font-size: 1em;
+  max-width: 100%;
+}
+
+.game-footer {
+  margin-top: 10px;
+}
+
+.game-footer button {
+  background-color: #fcfcfc;
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.2s;
+  font-family: inherit;
+  width: 10vw;
+}
+
+.game-footer button:hover {
+  background-color: #72ea7c;
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .game-card {
+    width: 90%;
   }
 
-  .card-overview small {
-    color: var(--sl-color-neutral-500);
+  .game-card img {
+    width: 5em;
+    height: 5em;
   }
 
-  .card-overview [slot='footer'] {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  .game-footer button {
+    width: 50%;
+    padding: 10px;
   }
+}
+
+@media screen and (max-width: 480px) {
+  .game-card {
+    width: 95%;
+    padding: 10px;
+    gap: 0;
+  }
+
+  .game-content {
+    gap: 10px;
+  }
+
+  .game-card img {
+    width: 4.5em;
+    height: 4.5em;
+  }
+
+  .game-footer button {
+    width: 30vw;
+    font-size: 0.9em;
+    padding: 0.5em;
+  }
+}

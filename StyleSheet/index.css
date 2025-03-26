@@ -10,6 +10,7 @@
 
 * {
   box-sizing: border-box;
+  letter-spacing: -1px;
 }
 
 body {
@@ -68,7 +69,6 @@ sl-menu-item a:focus {
 
 .sidebar {
   display: flex;
-  width: 100%;
+  width: 98%;
   margin: 10px;
 }
-

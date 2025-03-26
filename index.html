@@ -1,62 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>   
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>PS Vita Games & Ports</title>
-</head>
-<body>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/themes/dark.css" />
-    <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/shoelace-autoloader.js"></script>
+  </head>
+  <body>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/themes/dark.css"
+    />
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/shoelace-autoloader.js"
+    ></script>
     <script src="JavaScript/sidebar.js"></script>
     <script src="JavaScript/searchButton.js"></script>
     <script src="JavaScript/gameList.js"></script>
     <script src="JavaScript/indexFunctions.js"></script>
-    <link rel="stylesheet" href="StyleSheet/index.css">
-    <link rel="stylesheet" href="StyleSheet/card.css">
-    <div class="content" style="display:  flex;flex-direction: column;flex-wrap: nowrap;
-    align-items: flex-start;justify-content: flex-start;height: 100vh; width: 98vw;">
-      <nav class="sl-theme-dark">
-      <div class="sidebar">
-          <sl-drawer label="" placement="start" class="drawer-header-actions" style="--size: 300px; font-weight: 500;">
-            <sl-icon-button class="new-window" slot="header-actions" name="box-arrow-up-right"></sl-icon-button>
-            <sl-menu>
-              <label style="padding-left: 10px;">Playstation Vita</label>
-              <sl-divider></sl-divider>
-              <sl-menu-item>
-                <sl-icon slot="prefix" name="joystick"></sl-icon>
-                <a href="#">Games</a> <!-- Not completed yet -->
-              </sl-menu-item>
-              <sl-menu-item>
-                <sl-icon slot="prefix" name="usb-plug"></sl-icon>
-                <a href="#">Ported Games</a> <!-- Not completed yet-->
-              </sl-menu-item>
-            </sl-menu>
-            <br>
+    <link rel="stylesheet" href="StyleSheet/index.css" />
+    <link rel="stylesheet" href="StyleSheet/card.css" />
 
-            <sl-button slot="footer" variant="success" outline id="github">
-              <sl-icon slot="prefix" name="github"></sl-icon>
+    <main>
+      <div class="content">
+        <nav class="sl-theme-dark">
+          <div class="sidebar">
+            <sl-drawer label="" placement="start" class="drawer-header-actions">
+              <sl-icon-button
+                class="new-window"
+                slot="header-actions"
+                name="box-arrow-up-right"
+              ></sl-icon-button>
+              <sl-menu>
+                <label>Playstation Vita</label>
+                <sl-divider></sl-divider>
+                <sl-menu-item>
+                  <sl-icon slot="prefix" name="joystick"></sl-icon>
+                  <a href="#">Games</a>
+                  <!-- Not completed yet -->
+                </sl-menu-item>
+                <sl-menu-item>
+                  <sl-icon slot="prefix" name="usb-plug"></sl-icon>
+                  <a href="#">Ported Games</a>
+                  <!-- Not completed yet-->
+                </sl-menu-item>
+              </sl-menu>
+              <br />
+
+              <sl-button slot="footer" variant="success" outline id="github">
+                <sl-icon slot="prefix" name="github"></sl-icon>
+              </sl-button>
+              <sl-button slot="footer" variant="primary" outline
+                >Close</sl-button
+              >
+            </sl-drawer>
+            <sl-button class="sidebar-button">
+              <sl-icon name="layout-sidebar"></sl-icon>
             </sl-button>
-            <sl-button slot="footer" variant="primary" outline>Close</sl-button>
-          </sl-drawer>
-          <sl-button class="sidebar-button">
-            <sl-icon name="layout-sidebar"></sl-icon>
-          </sl-button>
 
-          <sl-dialog label="Search" class="dialog-focus">
-            <sl-input id="searchGames" autofocus placeholder="Search for a game..."></sl-input>
-            <sl-button slot="footer" variant="primary">Close</sl-button>
-          </sl-dialog>
+            <sl-dialog label="Search" class="dialog-focus">
+              <sl-input
+                id="searchGames"
+                autofocus
+                placeholder="Search for a game..."
+              ></sl-input>
+              <sl-button slot="footer" variant="primary">Close</sl-button>
+            </sl-dialog>
 
-          <sl-button variant="default" outline size="medium" class="search-button">
-            <sl-icon slot="prefix" name="search"></sl-icon>
-            Search
-          </sl-button>
+            <sl-button
+              variant="default"
+              outline
+              size="medium"
+              class="search-button"
+            >
+              <sl-icon slot="prefix" name="search"></sl-icon>
+              Search
+            </sl-button>
+          </div>
+          <div id="gameList"></div>
+        </nav>
       </div>
-      <div id="gameList" style="margin: 0px;display: flex;flex-direction: row;flex-wrap: wrap;
-      justify-content: space-between;align-content: flex-start;align-items: flex-start;">
-      </div>
-    </nav>
-    </div>
-</body>
+    </main>
+  </body>
 </html>

@@ -92,8 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Mass Effect",
-      image:
-        "https://i.ytimg.com/vi/ihymbMpddQU/maxresdefault.jpg",
+      image: "https://i.ytimg.com/vi/ihymbMpddQU/maxresdefault.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/masseffect.zip",
     },
     {
@@ -122,8 +121,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Final Fantasy 5",
-      image:
-        "https://gamefaqs.gamespot.com/a/box/7/8/8/929788_front.jpg",
+      image: "https://gamefaqs.gamespot.com/a/box/7/8/8/929788_front.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
     },
     {
@@ -182,8 +180,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Tomb Raider 1 & 2 Classic",
-      image:
-        "https://archive.org/download/tomb-raider-i/m_tomb-raider-i.png",
+      image: "https://archive.org/download/tomb-raider-i/m_tomb-raider-i.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Tomb%20Raider%201%20and%202%20Classic%20v1.0.2.zip",
     },
     {
@@ -275,7 +272,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://tse3.mm.bing.net/th?id=OIP.q_LYK8LK1fyMx8SWhzyDZwHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Need%20for%20Speed%20Most%20Wanted%20Upgrades.7z",
-    },    
+    },
     {
       name: "Doom RPG",
       image:
@@ -290,8 +287,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Nazi Zombies Portable",
-      image:
-        "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xm1.jpg",
+      image: "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xm1.jpg",
       link: "https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-vita.zip",
     },
     {
@@ -329,8 +325,8 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://upload.wikimedia.org/wikipedia/en/0/01/Let%27s_Golf_2_Cover.jpg",
       link: "https://www.mediafire.com/file/g9m8us89k5tn4f4/letsgolf2.7z/file",
-      },
-      {
+    },
+    {
       name: "Super Mario World",
       image:
         "https://tse4.mm.bing.net/th?id=OIP.VUi0UwdFc5W6koHYpfT1WAHaHa&pid=Api&P=0&h=220",
@@ -368,8 +364,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Sonic 3 A.I.R",
-      image:
-        "https://i.ytimg.com/vi/U3oQl12XQAs/maxresdefault.jpg",
+      image: "https://i.ytimg.com/vi/U3oQl12XQAs/maxresdefault.jpg",
       link: "https://www.mediafire.com/file_premium/fxod0clmxnunli8/Sonic_3_A.I.R._PS_VITA_PORT_%255BData_Files_%2526_VPK_Included%255D.zip/file",
     },
     {
@@ -380,8 +375,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Kindergarten 1",
-      image:
-        "https://i.ytimg.com/vi/_bLPYq1y6sA/maxresdefault.jpg",
+      image: "https://i.ytimg.com/vi/_bLPYq1y6sA/maxresdefault.jpg",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Kindergarten%201.vpk",
     },
     {
@@ -445,50 +439,30 @@ document.addEventListener("DOMContentLoaded", function () {
   function renderGames() {
     gameList.innerHTML = "";
     games.forEach((game) => {
-      const card = document.createElement("sl-card");
-      card.className = "card-overview";
-      card.style.margin = "10px";
-      card.style.display = "flex";
-      card.style.flexDirection = "column";
-      card.style.justifyContent = "space-between";
-      card.style.height = "auto";
-      card.style.textAlign = "center";
+      const card = document.createElement("div");
+      card.classList.add("game-card");
+
+      const content = document.createElement("div");
+      content.classList.add("game-content");
 
       const img = document.createElement("img");
-      img.slot = "image";
       img.src = game.image;
-      img.style.width = "200px";
-      img.style.height = "200px";
-      img.style.objectFit = "cover";
 
       const label = document.createElement("label");
       label.textContent = game.name;
-      label.style.flexGrow = "1";
-      label.style.display = "block";
-      label.style.wordBreak = "break-word";
-      label.style.overflowWrap = "break-word";
-      label.style.width = "150px";
-      label.style.height = "60px";
-      label.style.padding = "0px";
-      label.style.fontWeight = "600";
+
+      content.appendChild(img);
+      content.appendChild(label);
 
       const footer = document.createElement("div");
-      footer.slot = "footer";
-      footer.style.display = "flex";
-      footer.style.justifyContent = "center";
-      footer.style.alignItems = "center";
-      footer.style.height = "20px";
+      footer.classList.add("game-footer");
 
-      const button = document.createElement("sl-button");
+      const button = document.createElement("button");
       button.textContent = "Download";
-      button.variant = "primary";
-      button.outline = true;
-      button.size = "small";
       button.onclick = () => (window.location.href = game.link);
 
       footer.appendChild(button);
-      card.appendChild(img);
-      card.appendChild(label);
+      card.appendChild(content);
       card.appendChild(footer);
       gameList.appendChild(card);
     });
@@ -500,17 +474,19 @@ document.addEventListener("DOMContentLoaded", function () {
     const searchInput = document
       .getElementById("searchGames")
       .value.toLowerCase();
-    const cards = document.querySelectorAll(".card-overview");
+    const cards = document.querySelectorAll(".game-card");
 
-    games.forEach((game, index) => {
-      const card = cards[index];
-      if (game.name.toLowerCase().includes(searchInput)) {
+    cards.forEach((card) => {
+      const label = card.querySelector("label").textContent.toLowerCase();
+      if (label.includes(searchInput)) {
         card.style.display = "flex";
       } else {
         card.style.display = "none";
       }
     });
   }
+
+  document.getElementById("searchGames").addEventListener("input", searchGames);
 
   setInterval(searchGames, 500);
 });
