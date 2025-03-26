@@ -102,6 +102,18 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z",
     },
     {
+      name: "Fahrenheit: Indigo Prophecy",
+      image:
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/312840/capsule_616x353.jpg?t=1574281669",
+      link: "https://www.mediafire.com/file/018vreisks2ulim/fahrenheit_v0.8.ZIP/file",
+    },
+    {
+      name: "Deltarune",
+      image:
+        "https://tse3.mm.bing.net/th?id=OIP.ZDimgSJl_jmmDp4kH4cafgHaDt&pid=Api&P=0&h=220",
+      link: "https://www.mediafire.com/file/jy1okv1cihkf26q/Deltarune-PSVita.vpk/file",
+    },
+    {
       name: "Final Fantasy Dimensions",
       image:
         "https://assets-prd.ignimgs.com/2022/05/23/ffdimensions-1653332120734.jpg?width=300&crop=1:1%2Csmart",
