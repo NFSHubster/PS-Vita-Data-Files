@@ -365,7 +365,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Sonic Mania",
       image:
-        "https://cdn.discordapp.com/attachments/1300402299356844053/1354377614583922834/images_13.jpg?ex=67e511f2&is=67e3c072&hm=62818536f91b519b2c57febd2e0610617fa0d2803eb68735c5532991c0f62d0c&",
+        "https://www.tierragamer.com/wp-content/uploads/2018/01/SonicManiaOST.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic%20Mania.7z",
     },
     {
