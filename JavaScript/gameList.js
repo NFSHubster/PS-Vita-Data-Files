@@ -67,6 +67,18 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://www.mediafire.com/file/1958318axcnco2k/Blasphemous_Vita_Port.7z/file",
     },
     {
+      name: "This War of Mine",
+      image:
+        "http://3.bp.blogspot.com/-M5poss1Lmx8/UyWRHT0aqqI/AAAAAAAABjI/-LaJ5z4I6Ss/s1600/This-War-of-Mine-Logo.jpg",
+      link: "https://www.mediafire.com/file/ossr9giltvaasjl/This_War_of_Mine.rar/file",
+    },
+    {
+      name: "Fahrenheit: Indigo Prophecy",
+      image:
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/312840/capsule_616x353.jpg?t=1574281669",
+      link: "https://www.mediafire.com/file/018vreisks2ulim/fahrenheit_v0.8.ZIP/file",
+    },
+    {
       name: "xash3d/Half-Life & Counter Strike",
       image:
         "https://media.moddb.com/images/articles/1/260/259974/xash_logo_1024x768.jpg",
@@ -100,12 +112,6 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://gbatemp.net/attachments/the-simpsons-hit-run-01ad26d9bb584000-jpg.400032/",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z",
-    },
-    {
-      name: "Fahrenheit: Indigo Prophecy",
-      image:
-        "https://cdn.cloudflare.steamstatic.com/steam/apps/312840/capsule_616x353.jpg?t=1574281669",
-      link: "https://www.mediafire.com/file/018vreisks2ulim/fahrenheit_v0.8.ZIP/file",
     },
     {
       name: "Deltarune",
@@ -164,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "Crazy Taxi",
       image:
         "https://app.famitsu.com/wp-content/uploads/2013/07/CRAZYTAXI_icon.jpg",
-      link: "https://archive.org/download/crazy-taxi-game-for-ps-vita-non-pdrm/Crazy%20Taxi%20%28Game%20for%20PS%20Vita%29%20%28NonPdrm%29.rar",
+      link: "https://www.mediafire.com/file/z58698zfgbbqt06/crazy_taxi_classic.zip/file",
     },
     {
       name: "Unsighted",
@@ -378,6 +384,11 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "Sonic 3 A.I.R",
       image: "https://i.ytimg.com/vi/U3oQl12XQAs/maxresdefault.jpg",
       link: "https://www.mediafire.com/file_premium/fxod0clmxnunli8/Sonic_3_A.I.R._PS_VITA_PORT_%255BData_Files_%2526_VPK_Included%255D.zip/file",
+    },
+    {
+      name: "Sonic 3 S.M.S",
+      image: "https://tse3.mm.bing.net/th?id=OIP.pQKJaMS3qEUdMQ_lmMOfUAHaEK&pid=Api&P=0&h=220",
+      link: "https://www.mediafire.com/file/5og3nljnau8dah6/Sonic_3_SMS.vpk/file",
     },
     {
       name: "Sonic CD",
