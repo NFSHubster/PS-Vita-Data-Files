@@ -226,6 +226,24 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://github.com/Rocroverss/JumpKingGodot/releases/download/v1.01/JumpKing.vpk",
     },
     {
+      name: "OttoMatic",
+      image:
+        "https://tse4.mm.bing.net/th?id=OIP.LHKfiB4f4qzF7isLr1X9EgHaHZ&pid=Api&P=0&h=220",
+      link: "https://www.mediafire.com/folder/h36ya3zzwita5/OttoMatic",
+    },
+    {
+      name: "Death Road to Canada",
+      image:
+        "https://noodlecake.com/wp-content/uploads/2017/10/feature-DEATHROADTOCANADA-1280x720.jpg",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/Death%20Road%20to%20Canada.7z",
+    },
+    {
+      name: "Mighty Mike",
+      image:
+        "https://www.grenier-du-mac.net/copiecran/M/Mighty-Mike--1.jpg",
+      link: "https://www.mediafire.com/folder/k8f5iesjwzuum/Mighty_Mike",
+    },
+    {
       name: "The World Ends With You",
       image:
         "https://tse2.mm.bing.net/th?id=OIP.h2kHcNK_2Z7ljkNiwe2YEQHaEK&pid=Api&P=0&h=220",
