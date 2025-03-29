@@ -173,6 +173,12 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
     },
     {
+      name: "Modern Combat 3: Fallen Nation",
+      image:
+        "https://img.tapimg.net/market/images/34d23754f87ccac5cff8e5f28c678ba8.png",
+      link: "https://www.mediafire.com/folder/s3t22w98hlrxm/Modern_Combat_3",
+    },
+    {
       name: "Fallout 1",
       image:
         "https://assets-prd.ignimgs.com/2022/01/27/fallout-1-button-edit-1643322142537.jpg?width=300&crop=1%3A1%2Csmart&auto=webp",
@@ -329,7 +335,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Duke Nukem 3D",
       image:
-        "https://tse1.mm.bing.net/th?id=OIP.MX_SF_zmxKsAcIhs7F9yuAHaJW&pid=Api&P=0&h=220",
+        "https://pdacdn.com/app/59522abf33396/duke-nukem-3d.png",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Duke%20Nukem%203D.7z",
     },
     {
@@ -458,13 +464,13 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Dirty Fantasy (NSFW)",
       image:
-        "https://img.itch.zone/aW1nLzE4MzE5NzExLmpwZw==/315x250%23c/vo81Og.jpg",
+        "https://image.gamespot.com.cn/upload/202411/19/47107ulkxp2mHdr.png",
       link: "https://www.mediafire.com/folder/j2t5pur6nz6jp/Dirty+Fantasy",
     },
     {
       name: "Pirate Trainer (NSFW)",
       image:
-        "https://tse4.mm.bing.net/th?id=OVP.SK0xZ9YbSaZSK3WBcvWuVgHgFo&pid=Api&h=360&w=480&c=7&rs=1",
+        "https://img.40407.com/upload/202407/21/6bae12NETebL1FS.png",
       link: "https://www.mediafire.com/file/sribf1xm9rss22i/Pirate_Trainer-01.00.vpk/file",
     },
     {
@@ -482,13 +488,13 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "SiNiSistar (NSFW)",
       image:
-        "https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco72ue&w=640&q=75",
+        "https://source.boomplaymusic.com/group10/M00/12/30/dda69925c70c411eb3cb300471abd9e5H512W512_320_320.jpg",
       link: "https://www.mediafire.com/file/axsoccatqv63rbr/SiNiSistar_Alpha_v0.5.vpk/file",
     },
     {
       name: "Sakura Hime (NSFW)",
       image:
-        "https://howlongtobeat.com/games/104410_Sakura_Hime.jpg?width=250",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwXYWECJVvco-wdqKVOwDh9MJGhWDyJTt58g&s",
       link: "https://cdn.discordapp.com/attachments/1319890020060102747/1320623985171632280/Sakura_Hime_Beta_v0.8.vpk?ex=67e4e1ee&is=67e3906e&hm=c1fe41854a4fd3410305bdc8e260514b6f19f20dc07f0c366a703fe9ecb04765&",
     },
   ];
