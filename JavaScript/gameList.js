@@ -69,19 +69,19 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "This War of Mine",
       image:
-        "http://3.bp.blogspot.com/-M5poss1Lmx8/UyWRHT0aqqI/AAAAAAAABjI/-LaJ5z4I6Ss/s1600/This-War-of-Mine-Logo.jpg",
+        "https://tse2.mm.bing.net/th?id=OIP.qwjzy02CT3wIUYfS7aeuzAHaHa&pid=Api&P=0&h=220",
       link: "https://www.mediafire.com/file/ossr9giltvaasjl/This_War_of_Mine.rar/file",
     },
     {
       name: "Fahrenheit: Indigo Prophecy",
       image:
-        "https://cdn.cloudflare.steamstatic.com/steam/apps/312840/capsule_616x353.jpg?t=1574281669",
+        "https://pdacdn.com/app/59522c32d4d57/fahrenheit-indigo-prophecy.png",
       link: "https://www.mediafire.com/file/018vreisks2ulim/fahrenheit_v0.8.ZIP/file",
     },
     {
       name: "xash3d/Half-Life & Counter Strike",
       image:
-        "https://media.moddb.com/images/articles/1/260/259974/xash_logo_1024x768.jpg",
+        "https://image.winudf.com/v2/image/aW4uY2VsZXN0Lnhhc2gzZC5obF9pY29uXzE1MzE2MDU4OTlfMDQ5/icon.png?w=184&fakeurl=1",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Half%20Life%20%2B%20Counter%20Strike%20%28xash3d%29.zip",
     },
     {
@@ -99,12 +99,12 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Need for Speed: Hot Pursuit",
       image:
-        "https://vignette.wikia.nocookie.net/nfs/images/4/4d/NFSHP2010_Boxart.jpg/revision/latest?cb=20180228233822&path-prefix=en",
+        "https://tse4.mm.bing.net/th?id=OIP.ZK13PerQ7J_thdmhwZ-aWgHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/NFS%20Hot%20Pursuit.zip",
     },
     {
-      name: "Mass Effect",
-      image: "https://i.ytimg.com/vi/ihymbMpddQU/maxresdefault.jpg",
+      name: "Mass Effect Infiltrator",
+      image: "https://tse2.mm.bing.net/th?id=OIP.BfzLpV9lQUWcFukrHFd8wQHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/masseffect.zip",
     },
     {
@@ -116,7 +116,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Deltarune",
       image:
-        "https://tse3.mm.bing.net/th?id=OIP.ZDimgSJl_jmmDp4kH4cafgHaDt&pid=Api&P=0&h=220",
+        "https://images.sftcdn.net/images/t_app-icon-m/p/3f122fd8-ce51-49fd-9970-1f0158bc06c9/4092113841/deltarune-deltarune%20icon.png",
       link: "https://www.mediafire.com/file/jy1okv1cihkf26q/Deltarune-PSVita.vpk/file",
     },
     {
@@ -173,9 +173,15 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://www.mediafire.com/file/z58698zfgbbqt06/crazy_taxi_classic.zip/file",
     },
     {
+      name: "Subway Surfers",
+      image:
+        "https://play-lh.googleusercontent.com/bBF-xD47BOb3nfbbXF-Isx8LdZHX_Uxz6h14ughVjhCVDzdWU2NeJzJIv1wW4F1q7Rw",
+      link: "https://www.mediafire.com/file/7cgatjzd61dtyrf/SubwaySurfers.vpk/file",
+    },
+    {
       name: "Unsighted",
       image:
-        "https://tse1.mm.bing.net/th?id=OIP.PKBFPgr3WC2AIQszBTOPRQHaEK&pid=Api&P=0&h=220",
+        "https://images.nintendolife.com/b70f39ee9780c/unsighted-cover.cover_300x.jpg",
       link: "https://drive.google.com/file/d/1iSAoCEorNS-gWzyX1T7QVEYZe51szsrp/view?usp=sharing",
     },
     {
@@ -210,7 +216,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Soul Calibur",
       image:
-        "https://tse3.mm.bing.net/th?id=OIP._7mfXaj49MEgmROnFbUBqQHaEK&pid=Api&P=0&h=220",
+        "https://image.gameapps.hk/images/201309/07/AAA.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Soulcalibur.zip",
     },
     {
