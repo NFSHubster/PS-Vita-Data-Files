@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Grand Theft Auto San Andreas",
       image:
-        "https://avatars.githubusercontent.com/u/200208933?s=200&v=4",
+        "https://play-lh.googleusercontent.com/XRlCpj22PFJuFK43QcE3u5RxmoNUed7YO_zG-6F1PCqjrBIIURbTBDvTgLVVIk5pNeY",
       link: "https://www.mediafire.com/file/nl15z2mhs4lg947/gtasa.zip/file",
     },
     {
