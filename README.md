@@ -16,7 +16,7 @@ This is a simple,open-source website designed to allow users to download PlaySta
 
 ## 👥 Contributors
 [NFSHubster](https://github.com/NFSHubster) – Thumbnails,DL Links,Hosting,& OG HTML Code
-
+[CaioRossi](https://github.com/Caiorossi00) UI & HTML Improvements
 [HanazonoArchive](https://github.com/HanazonoArchive) – Improvements,JavaScript,JSON,Enhanced HTML Code
 
 ## 🤝 Contributing
