@@ -240,7 +240,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Jump King",
       image:
-        "https://cdn.cloudflare.steamstatic.com/steam/apps/1061090/capsule_616x353.jpg?t=1688636948",
+        "https://img.utdstc.com/icon/df6/fa4/df6fa459eb88a7231cbdd89ce9a0066ed860f244a0150e87d1910d395cf63165:200",
       link: "https://github.com/Rocroverss/JumpKingGodot/releases/download/v1.01/JumpKing.vpk",
     },
     {
@@ -270,7 +270,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Driver 2",
       image:
-        "https://tse1.mm.bing.net/th?id=OIP.OXyJh4K94zcBacEbeZu1OgHaLH&pid=Api&P=0&h=220",
+        "https://assets-prd.ignimgs.com/2022/10/10/driver2-1665446127223.jpg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Driver%202.zip",
     },
     {
@@ -389,13 +389,13 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Dungeons and Degenerate Gamblers",
       image:
-        "https://tse1.mm.bing.net/th?id=OIP.qWCtx525XkFaMRQFqX_SxgHaEK&pid=Api&P=0&h=220",
+        "https://apkvision.org/wp-content/uploads/2024/08/31291031-1.png",
       link: "https://pixeldrain.com/u/K5exdgSd",
     },
     {
       name: "Real Football 2011",
       image:
-        "https://cdn.mobygames.com/screenshots/16360155-real-soccer-2011-j2me-title-screen.png",
+        "https://archive.org/download/real-football-2011_202301/mzi.thpudjug.png",
       link: "https://www.mediafire.com/file/tleqenm0oqj7bbf/realfootball.7z/file",
     },
     {
@@ -418,7 +418,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Sonic 3 A.I.R",
-      image: "https://i.ytimg.com/vi/U3oQl12XQAs/maxresdefault.jpg",
+      image: "https://sonic-fangames.com/wp-content/uploads/2024/08/sonic-air-3.webp",
       link: "https://www.mediafire.com/file_premium/fxod0clmxnunli8/Sonic_3_A.I.R._PS_VITA_PORT_%255BData_Files_%2526_VPK_Included%255D.zip/file",
     },
     {
