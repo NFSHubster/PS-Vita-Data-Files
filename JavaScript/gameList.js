@@ -132,6 +132,18 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://mega.nz/file/tRMy1DJI#LU-PwN0-BDkNTu01gJgVRXdWGjOzwYRwh4gNyE7wZK4",
     },
     {
+      name: "Streets of Rage Remake",
+      image:
+        "https://img.utdstc.com/icon/92a/839/92a839b477f5e13424e906a9267a136ef2f9dce04c11f1a9acd7bfa1291baa49:200",
+      link: "https://www.mediafire.com/folder/eu9tlr8fe640b/Streets_of_Rage_Remake",
+    },
+    {
+      name: "Shadow Warrior",
+      image:
+        "https://play-lh.googleusercontent.com/iBFtK_5TrtXRVU9ESK73dmfcc2K9wByrDYfrdCo1rL5H_-fbfNSld-a7ZwtTNBOg1mE",
+      link: "https://www.mediafire.com/folder/2ph3mijz0bng1/Shadow_Warrior",
+    },
+    {
       name: "Final Fantasy Dimensions",
       image:
         "https://assets-prd.ignimgs.com/2022/05/23/ffdimensions-1653332120734.jpg?width=300&crop=1:1%2Csmart",
@@ -252,7 +264,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Death Road to Canada",
       image:
-        "https://noodlecake.com/wp-content/uploads/2017/10/feature-DEATHROADTOCANADA-1280x720.jpg",
+        "https://play-lh.googleusercontent.com/rpC70ha-hZM85OroGMRlh4q5ff2oEpJWd2-Uqu5oGAdVgVMPG3aPbV4cvaN0G77wQg",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Death%20Road%20to%20Canada.7z",
     },
     {
