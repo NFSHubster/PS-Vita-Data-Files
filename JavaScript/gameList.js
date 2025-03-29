@@ -3,25 +3,25 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Grand Theft Auto III",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grand_Theft_Auto_III_logo.svg/800px-Grand_Theft_Auto_III_logo.svg.png",
+        "https://play-lh.googleusercontent.com/3gzidHrtPm8yGZfItWHEIYclWTjcOhd4KMf40Igcv3mOW_KD7T_4oh5A_pMb1E5NOrA",
       link: "https://www.mediafire.com/file/nfcc6u938mxnmgs/gta3.zip/file",
     },
     {
       name: "Grand Theft Auto Vice City",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Grand_Theft_Auto_Vice_City_logo.svg/545px-Grand_Theft_Auto_Vice_City_logo.svg.png?20200424174037",
+        "https://rexdl.com/wp-content/uploads/2017/08/grand-theft-auto-vice-city-android-thumb.jpg",
       link: "https://www.mediafire.com/file/cpnu899gis7hzzq/gtavc.zip/file",
     },
     {
       name: "Grand Theft Auto San Andreas",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grand_Theft_Auto_San_Andreas_logo.svg/800px-Grand_Theft_Auto_San_Andreas_logo.svg.png",
+        "https://avatars.githubusercontent.com/u/200208933?s=200&v=4",
       link: "https://www.mediafire.com/file/nl15z2mhs4lg947/gtasa.zip/file",
     },
     {
       name: "Grand Theft Auto Chinatown Wars",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Grand_Theft_Auto_Chinatown_Wars_logo.png/800px-Grand_Theft_Auto_Chinatown_Wars_logo.png",
+        "https://play-lh.googleusercontent.com/cNE2roM5cV3F2VFABVGVIzjmfanWzMiTiOzIQCtKR9X1EFIHowqhav5wM2_ZmnZAoLY",
       link: "https://www.mediafire.com/file/z1h025ydqjekoc2/gtactw.zip/file",
     },
     {
