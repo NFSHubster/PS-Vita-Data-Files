@@ -270,7 +270,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Mighty Mike",
       image:
-        "https://www.grenier-du-mac.net/copiecran/M/Mighty-Mike--1.jpg",
+        "https://img.itch.zone/aW1nLzkxNzE4NTcuanBn/original/NZZtBG.jpg",
       link: "https://www.mediafire.com/folder/k8f5iesjwzuum/Mighty_Mike",
     },
     {
@@ -310,36 +310,6 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Bugdom.vpk",
     },
     {
-      name: "Minecraft Enhanced",
-      image:
-        "https://preview.redd.it/release-minecraft-enhanced-by-pg-team-mod-v0-iexzwtxzlapb1.png?width=1080&crop=smart&auto=webp&s=2bc3bd1aac4c8f406e428c7b98f1e4c18304ac9d",
-      link: "https://mega.nz/folder/eR0DlDiB#TOeKW_YrHnMvxGeqXUcryg",
-    },
-    {
-      name: "Minecraft Updated: 1st file",
-      image:
-        "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
-      link: "https://www.mediafire.com/file/5s1jf3qrliycttx/Minecraft_Updated_RePatch.zip/file",
-    },
-    {
-      name: "Minecraft Updated: 2nd file",
-      image:
-        "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
-      link: "https://www.mediafire.com/file/lqcgwqg1dsbvd2z/mcu_1.1.zip/file",
-    },
-    {
-      name: "Borderlands 2 Patch",
-      image:
-        "https://tse3.mm.bing.net/th?id=OIP.y-_O8XY42vAJxufgVxf5JwHaHa&pid=Api&P=0&h=220",
-      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Borderlands%202%20Patch.7z",
-    },
-    {
-      name: "Need For Speed: Most Wanted Upgrades",
-      image:
-        "https://tse3.mm.bing.net/th?id=OIP.q_LYK8LK1fyMx8SWhzyDZwHaHa&pid=Api&P=0&h=220",
-      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Need%20for%20Speed%20Most%20Wanted%20Upgrades.7z",
-    },
-    {
       name: "Doom RPG",
       image:
         "https://tse1.mm.bing.net/th?id=OIP.eaOH_WAZo3mnoL6A8TqtzAHaLH&pid=Api&P=0&h=220",
@@ -371,19 +341,19 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Quake",
       image:
-        "https://image.api.playstation.com/vulcan/ap/rnd/202108/0404/MqhhoiKkeruDNT1cwDhLcYrx.png",
+        "https://pdacdn.com/app/5ec1af4db739e/quake-i-logo.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake.zip",
     },
     {
       name: "Quake 2",
       image:
-        "https://cdn1.epicgames.com/offer/a5434b28a3ac403e966478e86a839f5b/EGS_QuakeII_idSoftware_S2_1200x1600-6123414858c2f24e8f760ba637155c8c",
+        "https://pdacdn.com/app/5ec2a8076185b/quake-ii-logo.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake2.zip",
     },
     {
-      name: "Quake 3",
+      name: "Quake 3 Arena",
       image:
-        "https://tse4.mm.bing.net/th?id=OIP.fexGazLvocm3sLVgsbfVawHaLH&pid=Api&P=0&h=220",
+        "https://dl.apkawards.com/moda/dl29/games/Quake_III/img/Quake_III.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake%203.zip",
     },
     {
@@ -419,7 +389,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Sonic 1",
       image:
-        "https://screenshots.gamebanana.com/img/ss/requests/5fa9e4727368f.jpg",
+        "https://image.winudf.com/v2/image1/Y29tLnNlZ2Euc29uaWMxcHhfaWNvbl8xNjU0NDkwODA3XzA4NQ/icon.webp?w=140&fakeurl=1&type=.webp",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic1.zip",
     },
     {
@@ -435,7 +405,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Sonic 3 S.M.S",
-      image: "https://tse3.mm.bing.net/th?id=OIP.pQKJaMS3qEUdMQ_lmMOfUAHaEK&pid=Api&P=0&h=220",
+      image: "https://sonic-fangames.com/wp-content/uploads/2024/04/Sonic-3-SMS_Fangame.webp",
       link: "https://www.mediafire.com/file/5og3nljnau8dah6/Sonic_3_SMS.vpk/file",
     },
     {
@@ -446,7 +416,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Kindergarten 1",
-      image: "https://i.ytimg.com/vi/_bLPYq1y6sA/maxresdefault.jpg",
+      image: "https://pdacdn.com/app/63c2477ae2eaa/27290908.png",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Kindergarten%201.vpk",
     },
     {
@@ -454,6 +424,36 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://steamcdn-a.akamaihd.net/steam/apps/1067850/header.jpg?t=1564463264",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Kindergarten%202.vpk",
+    },
+      {
+      name: "Minecraft Enhanced",
+      image:
+        "https://preview.redd.it/release-minecraft-enhanced-by-pg-team-mod-v0-iexzwtxzlapb1.png?width=1080&crop=smart&auto=webp&s=2bc3bd1aac4c8f406e428c7b98f1e4c18304ac9d",
+      link: "https://mega.nz/folder/eR0DlDiB#TOeKW_YrHnMvxGeqXUcryg",
+    },
+    {
+      name: "Minecraft Updated: 1st file",
+      image:
+        "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
+      link: "https://www.mediafire.com/file/5s1jf3qrliycttx/Minecraft_Updated_RePatch.zip/file",
+    },
+    {
+      name: "Minecraft Updated: 2nd file",
+      image:
+        "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
+      link: "https://www.mediafire.com/file/lqcgwqg1dsbvd2z/mcu_1.1.zip/file",
+    },
+    {
+      name: "Borderlands 2 Patch",
+      image:
+        "https://tse3.mm.bing.net/th?id=OIP.y-_O8XY42vAJxufgVxf5JwHaHa&pid=Api&P=0&h=220",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Borderlands%202%20Patch.7z",
+    },
+    {
+      name: "Need For Speed: Most Wanted Upgrades",
+      image:
+        "https://tse3.mm.bing.net/th?id=OIP.q_LYK8LK1fyMx8SWhzyDZwHaHa&pid=Api&P=0&h=220",
+      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Need%20for%20Speed%20Most%20Wanted%20Upgrades.7z",
     },
     {
       name: "Dirty Fantasy (NSFW)",
