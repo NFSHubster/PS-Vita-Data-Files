@@ -116,7 +116,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Deltarune",
       image:
-        "https://images.sftcdn.net/images/t_app-icon-m/p/3f122fd8-ce51-49fd-9970-1f0158bc06c9/4092113841/deltarune-deltarune%20icon.png",
+        "https://image.winudf.com/v2/image1/ZGVsdC5ldXMuYXJ1bl9pY29uXzE1NDM5MDk5MzlfMDMz/icon.png?w=184&fakeurl=1",
       link: "https://www.mediafire.com/file/jy1okv1cihkf26q/Deltarune-PSVita.vpk/file",
     },
     {
@@ -162,20 +162,20 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%204%20%28ff4%29.zip",
     },
     {
-      name: "Final Fantasy 5",
-      image: "https://gamefaqs.gamespot.com/a/box/7/8/8/929788_front.jpg",
-      link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
-    },
-    {
       name: "Final Fantasy 4 The After Years",
       image:
         "https://tse3.mm.bing.net/th?id=OIP.iAzlMiMXLdHus_aP5ERY5QHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%20After%20Years%28ff4a%29.zip",
     },
     {
+      name: "Final Fantasy 5",
+      image: "https://gamefaqs.gamespot.com/a/box/7/8/8/929788_front.jpg",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
+    },
+    {
       name: "Fallout 1",
       image:
-        "https://tse3.mm.bing.net/th?id=OIP.m-VnS-lJUxPeUGz3MmOKhAAAAA&pid=Api&P=0&h=220",
+        "https://assets-prd.ignimgs.com/2022/01/27/fallout-1-button-edit-1643322142537.jpg?width=300&crop=1%3A1%2Csmart&auto=webp",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/fallout.7z",
     },
     {
@@ -246,7 +246,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "AM2R",
       image:
-        "https://www.itechgyan.com/wp-content/uploads/2017/11/am2r-download.png",
+        "https://pdacdn.com/app/5b60019560ddd/1401-profile-am2r-another-metroid-2-remake.png",
       link: "https://drive.google.com/file/d/1uLrBPL4MDjNAYxmXjdQk1cV2aYBj7ies/view?pli=1",
     },
     {
@@ -276,7 +276,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "The World Ends With You",
       image:
-        "https://tse2.mm.bing.net/th?id=OIP.h2kHcNK_2Z7ljkNiwe2YEQHaEK&pid=Api&P=0&h=220",
+        "https://pdacdn.com/app/59522b75a52db/the-world-ends-with-you.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/The%20World%20Ends%20With%20Youzip",
     },
     {
@@ -288,7 +288,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Return To The Castle: Wolfenstein",
       image:
-        "http://images5.fanpop.com/image/photos/25400000/Return-to-Castle-Wolfenstein-wolfenstein-25491959-1280-960.jpg",
+        "https://dl.apkawards.com/moda/dl16/games/rtcw4a/img/rtcw4a.png?v=22",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Return%20to%20Castle%20Wolfenstein.7z",
     },
     {
