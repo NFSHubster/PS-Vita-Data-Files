@@ -223,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Command & Conquer: Tiberian Dawn",
       image:
-        "https://static.wikia.nocookie.net/cnc_gamepedia_en/images/7/7a/Cnctd-win-cover.jpg/revision/latest?cb=20180801164234",
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Command_%26_Conquer_1995_cover.jpg",
       link: "https://www.mediafire.com/folder/r9r54qoqq4b8d/Command_and_Conquer_Tiberian_Dawn",
     },
     {
