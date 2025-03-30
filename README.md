@@ -12,7 +12,6 @@ This is a simple,open-source website designed to allow users to download PlaySta
 - **HTML** → Structure  
 - **CSS** → Styling (Dark Mode)  
 - **JavaScript** → Interactive elements  
-- **JSON** → Game data storage  
 
 ## 👥 Contributors
 [NFSHubster](https://github.com/NFSHubster) – Thumbnails,DL Links,Hosting,& OG HTML Code
