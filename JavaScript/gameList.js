@@ -173,6 +173,18 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
     },
     {
+      name: "Ducktales: Remastered",
+      image:
+        "https://static1.anpoimages.com/wordpress/wp-content/uploads/2015/04/nexus2cee_app-cover1.png",
+      link: "https://www.mediafire.com/folder/m3ra2j6mo17xk/Ducktales_Remastered",
+    },
+    {
+      name: "Ducktales: Remastered",
+      image:
+        "https://static1.anpoimages.com/wordpress/wp-content/uploads/2015/04/nexus2cee_app-cover1.png",
+      link: "https://www.mediafire.com/folder/m3ra2j6mo17xk/Ducktales_Remastered",
+    },
+    {
       name: "Modern Combat 3: Fallen Nation",
       image:
         "https://img.tapimg.net/market/images/34d23754f87ccac5cff8e5f28c678ba8.png",
