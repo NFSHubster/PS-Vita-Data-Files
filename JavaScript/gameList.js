@@ -202,6 +202,12 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://www.mediafire.com/folder/s3t22w98hlrxm/Modern_Combat_3",
     },
     {
+      name: "Baba is You",
+      image:
+        "https://play-lh.googleusercontent.com/yBi3fqxlKVOUAogys4SqYfVmIYEBCsGAKbNdIUCUkxymzL5vZ2mUEqF5VAcTiDZYN6s",
+      link: "https://www.mediafire.com/folder/t3wa4aqcf0wqr/Baba_is_You",
+    },
+    {
       name: "Fallout 1",
       image:
         "https://assets-prd.ignimgs.com/2022/01/27/fallout-1-button-edit-1643322142537.jpg?width=300&crop=1%3A1%2Csmart&auto=webp",
@@ -548,7 +554,7 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "Sakura Hime (NSFW)",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwXYWECJVvco-wdqKVOwDh9MJGhWDyJTt58g&s",
-      link: "https://cdn.discordapp.com/attachments/1319890020060102747/1320623985171632280/Sakura_Hime_Beta_v0.8.vpk?ex=67e4e1ee&is=67e3906e&hm=c1fe41854a4fd3410305bdc8e260514b6f19f20dc07f0c366a703fe9ecb04765&",
+      link: "https://www.mediafire.com/file/n3n6s2xwd237qk7/Sakura_Hime_Beta_v0.8.vpk/file",
     },
   ];
 
