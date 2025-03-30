@@ -322,16 +322,34 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Mario%20Kart%20Vita.zip",
     },
     {
+      name: "Crashlands",
+      image:
+        "https://pdacdn.com/app/59522c2382277/crashlands.png",
+      link: "https://www.mediafire.com/file/h803vpygycl2tc4/CRASHLAND_-_With_game_data_-_FIXED_ERROR__0x80870005.VPK/file",
+    },
+    {
       name: "Bugdom",
       image:
         "http://www.mobygames.com/images/covers/l/11020-bugdom-windows-front-cover.jpg",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Bugdom.vpk",
     },
     {
+      name: "Bugdom 2",
+      image:
+        "https://static.wikia.nocookie.net/gamester/images/3/37/Bugdom_2_logo.png/revision/latest/scale-to-width-down/250?cb=20150810193003",
+      link: "https://www.mediafire.com/folder/fq8gvvk43d14k/Bugdom_2",
+    },
+    {
       name: "Doom RPG",
       image:
-        "https://tse1.mm.bing.net/th?id=OIP.eaOH_WAZo3mnoL6A8TqtzAHaLH&pid=Api&P=0&h=220",
+        "https://img.utdstc.com/icon/a40/0ac/a400ace6a4d6bcfe638f8520f5746ef674e6b0c48a9c121c1ee0c089a6713eeb:200",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/DoomRPG.zip",
+    },
+    {
+      name: "Doom II RPG",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AvwLO_I-qGuuZ8Ue4p_RgfY9OI7JwUyhLQ&s",
+      link: "https://www.mediafire.com/folder/smyb6tqeyheu8/Doom_II_RPG",
     },
     {
       name: "Doom 64EX",
@@ -341,7 +359,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       name: "Nazi Zombies Portable",
-      image: "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xm1.jpg",
+      image: "https://pbs.twimg.com/profile_images/1463612941987635200/mJBVkohQ_400x400.jpg",
       link: "https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-vita.zip",
     },
     {
