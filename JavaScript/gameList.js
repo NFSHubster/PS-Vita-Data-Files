@@ -173,6 +173,11 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
     },
     {
+      name: "Doki Doki Literature Club",
+      image: "https://pdacdn.com/app/5ffc22db87d6d/doki_doki_literature_club-logo.png",
+      link: "https://www.mediafire.com/file/athfkxpgit604zi/Doki.Doki.Literature.Club-01.01.vpk/file",
+    },
+    {
       name: "Carmageddon",
       image:
         "https://pdacdn.com/app/59522b07393d8/carmageddon.png",
