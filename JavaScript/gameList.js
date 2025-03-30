@@ -215,6 +215,18 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://drive.google.com/file/d/1iSAoCEorNS-gWzyX1T7QVEYZe51szsrp/view?usp=sharing",
     },
     {
+      name: "Command & Conquer: Red Alert",
+      image:
+        "https://m.media-amazon.com/images/I/711BwJ0-iUL._SL1500_.jpg",
+      link: "https://www.mediafire.com/folder/cc9u81vik1lgj/Command_and_Conquer_Red_Alert",
+    },
+    {
+      name: "Command & Conquer: Tiberian Dawn",
+      image:
+        "https://static.wikia.nocookie.net/cnc_gamepedia_en/images/7/7a/Cnctd-win-cover.jpg/revision/latest?cb=20180801164234",
+      link: "https://www.mediafire.com/folder/r9r54qoqq4b8d/Command_and_Conquer_Tiberian_Dawn",
+    },
+    {
       name: "Zelda 3: A Link to the Past",
       image:
         "https://tse2.mm.bing.net/th?id=OIP.iyXfCHXe45Y5MD24BM4yxgHaHa&pid=Api&P=0&h=220",
