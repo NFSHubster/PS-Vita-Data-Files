@@ -312,7 +312,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Wolfenstein 3D",
       image:
-        "https://tse1.mm.bing.net/th?id=OIP.dWQe_npr_8OFF0Q-OWUUFwHaF0&pid=Api&P=0&h=220",
+        "https://images.sftcdn.net/images/t_app-icon-m/p/d5ae8d92-96d7-11e6-b21e-00163ed833e7/2185270521/wolfenstein-3d-download.png",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Wolfenstein%203D.zip",
     },
     {
@@ -336,7 +336,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Bugdom 2",
       image:
-        "https://static.wikia.nocookie.net/gamester/images/3/37/Bugdom_2_logo.png/revision/latest/scale-to-width-down/250?cb=20150810193003",
+        "https://img.tapimg.net/market/images/6fc7ab57f3e1939768435366e9e4ba67.jpg/appicon?t=1",
       link: "https://www.mediafire.com/folder/fq8gvvk43d14k/Bugdom_2",
     },
     {
