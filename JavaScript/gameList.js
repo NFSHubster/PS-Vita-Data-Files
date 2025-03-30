@@ -173,10 +173,16 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
     },
     {
-      name: "Ducktales: Remastered",
+      name: "Carmageddon",
       image:
-        "https://static1.anpoimages.com/wordpress/wp-content/uploads/2015/04/nexus2cee_app-cover1.png",
-      link: "https://www.mediafire.com/folder/m3ra2j6mo17xk/Ducktales_Remastered",
+        "https://pdacdn.com/app/59522b07393d8/carmageddon.png",
+      link: "https://www.mediafire.com/folder/255dynf60gcrv/Carmageddon",
+    },
+    {
+      name: "Carmageddon Splat Pack",
+      image:
+        "https://assets-prd.ignimgs.com/2022/05/13/carmageddon-splat-pack-button-1652403026426.jpg",
+      link: "https://www.mediafire.com/folder/7ekyo92xjx682/Carmageddon_Splat_Pack",
     },
     {
       name: "Ducktales: Remastered",
