@@ -488,7 +488,7 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "Kindergarten 2",
       image:
         "https://steamcdn-a.akamaihd.net/steam/apps/1067850/header.jpg?t=1564463264",
-      link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Kindergarten%202.vpk",
+      link: "https://cdn.discordapp.com/attachments/1300402299356844053/1356233202666307584/kindergarten-2-icon.jpg?ex=67ebd219&is=67ea8099&hm=65e9e19f02fb5c69caafd2e2b79f421d0daf9d5e6ea7bc313b6e1b9b85727049&",
     },
       {
       name: "Minecraft Enhanced",
