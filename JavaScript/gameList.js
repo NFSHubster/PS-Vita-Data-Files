@@ -494,24 +494,24 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "Kindergarten 2",
       image:
         "https://steamcdn-a.akamaihd.net/steam/apps/1067850/header.jpg?t=1564463264",
-      link: "https://images.sftcdn.net/images/t_app-icon-s/p/675fb619-f51e-4fed-b1bc-2d2be764fd6b/709236158/kindergarten-2-icon.jpg",
+      link: "https://static.tvtropes.org/pmwiki/pub/images/kindergarten2_principal.png",
     },
       {
       name: "Minecraft Enhanced",
       image:
-        "https://preview.redd.it/release-minecraft-enhanced-by-pg-team-mod-v0-iexzwtxzlapb1.png?width=1080&crop=smart&auto=webp&s=2bc3bd1aac4c8f406e428c7b98f1e4c18304ac9d",
+        "https://i.redd.it/890syreavulb1.jpg",
       link: "https://mega.nz/folder/eR0DlDiB#TOeKW_YrHnMvxGeqXUcryg",
     },
     {
       name: "Minecraft Updated: 1st file",
       image:
-        "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMaFMtCe0cyygKC6CCo5voIOgStocQBPSzQ&s",
       link: "https://www.mediafire.com/file/5s1jf3qrliycttx/Minecraft_Updated_RePatch.zip/file",
     },
     {
       name: "Minecraft Updated: 2nd file",
       image:
-        "https://preview.redd.it/minecraft-updated-v0-nd2j4nkk1ope1.png?width=960&format=png&auto=webp&s=3f408a729bfcf97755773b32fbd9f29ee599a106",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMaFMtCe0cyygKC6CCo5voIOgStocQBPSzQ&s",
       link: "https://www.mediafire.com/file/lqcgwqg1dsbvd2z/mcu_1.1.zip/file",
     },
     {
