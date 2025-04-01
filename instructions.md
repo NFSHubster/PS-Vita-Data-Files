@@ -1,10 +1,15 @@
-Hi there!
+Hi there !
 
-so how do you add games?
-Opened the /JavaScript, and opened "gameList.js".
+If you'd like to contribute to this repository by adding more games,simply add the game's name,thumbnail's link,and download link in the following format inside the "const games" block
+    
+    {
+      name: "Game's Name",
+      image:
+        "Thumbnail's link",
+      link: "Download Link to the Game",
+    },
 
-inside the block of "const games" just add the game with the name, photo, and link.
-
-That's it, thanks for having me!
+To edit a game's thumbnail,simply replace the thumbnail link of the title.
 
 From HanazonoArchive (Github) and u/Embarrassed-Month715 (Reddit)
+Edited by: NFSHubster
