@@ -404,6 +404,12 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://www.mediafire.com/file/x74x5a97qflan7m/GD-v1.01.zip/file",
     },
     {
+      name: "Anomaly Korea",
+      image:
+        "https://pdacdn.com/app/59522ae51b641/anomaly-korea.png",
+      link: "https://archive.org/download/psv-homebrew/Data%20Files/Anomaly%20Korea.7z",
+    },
+    {
       name: "Quake",
       image:
         "https://pdacdn.com/app/5ec1af4db739e/quake-i-logo.png",
@@ -488,7 +494,7 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "Kindergarten 2",
       image:
         "https://steamcdn-a.akamaihd.net/steam/apps/1067850/header.jpg?t=1564463264",
-      link: "https://cdn.discordapp.com/attachments/1300402299356844053/1356233202666307584/kindergarten-2-icon.jpg?ex=67ebd219&is=67ea8099&hm=65e9e19f02fb5c69caafd2e2b79f421d0daf9d5e6ea7bc313b6e1b9b85727049&",
+      link: "https://images.sftcdn.net/images/t_app-icon-s/p/675fb619-f51e-4fed-b1bc-2d2be764fd6b/709236158/kindergarten-2-icon.jpg",
     },
       {
       name: "Minecraft Enhanced",
