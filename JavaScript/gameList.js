@@ -410,6 +410,24 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Anomaly%20Korea.7z",
     },
     {
+      name: "Anomaly Defenders",
+      image:
+        "https://pdacdn.com/app/59522b92dd426/anomaly-defenders.png",
+      link: "https://www.mediafire.com/folder/eifmnno14yflv/Anomaly_Defenders",
+    },
+    {
+      name: "Anomaly Warzone Earth",
+      image:
+        "https://cdn.mobygames.com/d5bb1cec-abf2-11ed-b206-02420a000131.webp",
+      link: "https://www.mediafire.com/folder/q2tl7dhtm8a52/Anomaly_Warzone_Earth",
+    },
+    {
+      name: "Anomaly 2",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqlJSnuFKaXkP75roOYDqjxCt8QULlrTwKQ&s",
+      link: "https://www.mediafire.com/folder/x0bq1lau6kbsg/Anomaly_2",
+    },
+    {
       name: "Quake",
       image:
         "https://pdacdn.com/app/5ec1af4db739e/quake-i-logo.png",
