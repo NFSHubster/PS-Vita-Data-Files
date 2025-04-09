@@ -570,8 +570,8 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Aurelia (NSFW)",
       image:
-        "https://tse2.mm.bing.net/th?id=OIP.ylkx2w7ncicqkrEh-NwxlwAAAA&pid=Api&P=0&h=220",
-      link: "https://archive.org/download/psv-homebrew/Data%20Files/Aurelia%20%28NSFW%29.zip",
+        "https://ugc.production.linktr.ee/9fa7e582-b9b3-4b0e-8dc5-2ab785ac43b7_WX20241223-204342-2x.png",
+      link: "https://github.com/NFSHubster/Aurelia-PS-Vita/releases/download/V2.0/Aurelia.vpk",
     },
     {
       name: "SiNiSistar (NSFW)",
