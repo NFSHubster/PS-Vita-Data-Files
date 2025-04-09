@@ -178,6 +178,11 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://www.mediafire.com/file/athfkxpgit604zi/Doki.Doki.Literature.Club-01.01.vpk/file",
     },
     {
+      name: "7 Billion Humans",
+      image: "https://play-lh.googleusercontent.com/s9HPmfJob3F2q2QjtF_Z7asRMRa7kPqcM_DpAfhoR-5CSqRzKey8h-ZzeoHu3VJyHQ",
+      link: "https://drive.google.com/drive/folders/1GD2Tk9R7uVR0Pc5o_On-tOs0QdWqPiNW?usp=drive_link",
+    },
+    {
       name: "Carmageddon",
       image:
         "https://pdacdn.com/app/59522b07393d8/carmageddon.png",
