@@ -542,12 +542,14 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://tse3.mm.bing.net/th?id=OIP.y-_O8XY42vAJxufgVxf5JwHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Borderlands%202%20Patch.7z",
+      footer: "A Homebrew patch that was created to make Borderlands 2 playable on the PlayStation Vita at a stable 30 FPS"
     },
     {
       name: "Need For Speed: Most Wanted Upgrades",
       image:
         "https://tse3.mm.bing.net/th?id=OIP.q_LYK8LK1fyMx8SWhzyDZwHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Need%20for%20Speed%20Most%20Wanted%20Upgrades.7z",
+      footer: "This modpack includes the NFS MW REDUX modification and adds custom cars such as police vehicles & multiplayer cars"
     },
     {
       name: "Dirty Fantasy (NSFW)",
