@@ -108,4 +108,26 @@
     font-size: 0.9em;
     padding: 0.5em;
   }
+  .game-description {
+  margin-top: 8px;
+  font-size: 0.85em;
+  color: #ccc;
+  line-height: 1.4;
+  text-align: center;
+  padding: 0 5px;
+}
+
+.game-details {
+  margin-top: 8px;
+  font-size: 0.85em;
+  color: #bbb;
+  line-height: 1.5;
+  text-align: center;
+  padding: 0 5px;
+}
+
+.game-details p {
+  margin: 2px 0;
+}
+
 }
