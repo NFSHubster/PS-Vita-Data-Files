@@ -589,7 +589,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
   ];
 
-  const gameList = document.getElementById("gameList");
+const gameList = document.getElementById("gameList");
 
 function renderGames() {
   gameList.innerHTML = "";
@@ -617,7 +617,7 @@ function renderGames() {
     button.onclick = () => (window.location.href = game.link);
     footer.appendChild(button);
 
-    // ✅ This adds the footer text if it's present
+    
     if (game.footer) {
       const description = document.createElement("p");
       description.classList.add("game-description");
@@ -625,11 +625,26 @@ function renderGames() {
       footer.appendChild(description);
     }
 
+    
+    if (game.details) {
+      const detailsContainer = document.createElement("div");
+      detailsContainer.classList.add("game-details");
+
+      for (const [key, value] of Object.entries(game.details)) {
+        const line = document.createElement("p");
+        line.textContent = `${key.charAt(0).toUpperCase() + key.slice(1)}: ${value}`;
+        detailsContainer.appendChild(line);
+      }
+
+      footer.appendChild(detailsContainer);
+    }
+
     card.appendChild(content);
     card.appendChild(footer);
     gameList.appendChild(card);
   });
 }
+
 
   renderGames();
 
