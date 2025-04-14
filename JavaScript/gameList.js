@@ -17,12 +17,20 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://rexdl.com/wp-content/uploads/2017/08/grand-theft-auto-vice-city-android-thumb.jpg",
       link: "https://www.mediafire.com/file/cpnu899gis7hzzq/gtavc.zip/file",
+      details: {
+  author: "Rinnegatamante",
+  version: "v1.1",
+  size: "1.34 GBs",
     },
     {
       name: "Grand Theft Auto San Andreas",
       image:
         "https://play-lh.googleusercontent.com/XRlCpj22PFJuFK43QcE3u5RxmoNUed7YO_zG-6F1PCqjrBIIURbTBDvTgLVVIk5pNeY",
       link: "https://www.mediafire.com/file/nl15z2mhs4lg947/gtasa.zip/file",
+      details: {
+  author: "TheOfficialFloW",
+  version: "v2.1",
+  size: "1.77 GBs",
     },
     {
       name: "Grand Theft Auto Chinatown Wars",
