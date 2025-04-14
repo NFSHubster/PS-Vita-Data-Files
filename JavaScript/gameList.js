@@ -5,7 +5,6 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://play-lh.googleusercontent.com/3gzidHrtPm8yGZfItWHEIYclWTjcOhd4KMf40Igcv3mOW_KD7T_4oh5A_pMb1E5NOrA",
       link: "https://www.mediafire.com/file/nfcc6u938mxnmgs/gta3.zip/file",
-      footer: " Released in 2001, GTA III revolutionized open-world gaming with its immersive, crime-filled Liberty City. As the silent protagonist, Claude, players navigate through chaotic streets, engaging in missions, car chases, and explosive action. This iconic title laid the foundation for the series' future, offering a blend of storytelling, freedom, and rebellion.
       details: {
   author: "Rinnegatamante, TheOfficialFloW",
   version: "v1.4",
