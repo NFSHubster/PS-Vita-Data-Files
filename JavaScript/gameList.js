@@ -21,6 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
   author: "Rinnegatamante",
   version: "v1.1",
   size: "1.34 GBs",
+      }
     },
     {
       name: "Grand Theft Auto San Andreas",
@@ -31,6 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
   author: "TheOfficialFloW",
   version: "v2.1",
   size: "1.77 GBs",
+      }
     },
     {
       name: "Grand Theft Auto Chinatown Wars",
