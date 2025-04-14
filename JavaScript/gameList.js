@@ -591,37 +591,45 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const gameList = document.getElementById("gameList");
 
-  function renderGames() {
-    gameList.innerHTML = "";
-    games.forEach((game) => {
-      const card = document.createElement("div");
-      card.classList.add("game-card");
+function renderGames() {
+  gameList.innerHTML = "";
+  games.forEach((game) => {
+    const card = document.createElement("div");
+    card.classList.add("game-card");
 
-      const content = document.createElement("div");
-      content.classList.add("game-content");
+    const content = document.createElement("div");
+    content.classList.add("game-content");
 
-      const img = document.createElement("img");
-      img.src = game.image;
+    const img = document.createElement("img");
+    img.src = game.image;
 
-      const label = document.createElement("label");
-      label.textContent = game.name;
+    const label = document.createElement("label");
+    label.textContent = game.name;
 
-      content.appendChild(img);
-      content.appendChild(label);
+    content.appendChild(img);
+    content.appendChild(label);
 
-      const footer = document.createElement("div");
-      footer.classList.add("game-footer");
+    const footer = document.createElement("div");
+    footer.classList.add("game-footer");
 
-      const button = document.createElement("button");
-      button.textContent = "Download";
-      button.onclick = () => (window.location.href = game.link);
+    const button = document.createElement("button");
+    button.textContent = "Download";
+    button.onclick = () => (window.location.href = game.link);
+    footer.appendChild(button);
 
-      footer.appendChild(button);
-      card.appendChild(content);
-      card.appendChild(footer);
-      gameList.appendChild(card);
-    });
-  }
+    // ✅ This adds the footer text if it's present
+    if (game.footer) {
+      const description = document.createElement("p");
+      description.classList.add("game-description");
+      description.textContent = game.footer;
+      footer.appendChild(description);
+    }
+
+    card.appendChild(content);
+    card.appendChild(footer);
+    gameList.appendChild(card);
+  });
+}
 
   renderGames();
 
