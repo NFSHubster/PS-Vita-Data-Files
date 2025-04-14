@@ -39,36 +39,66 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://play-lh.googleusercontent.com/cNE2roM5cV3F2VFABVGVIzjmfanWzMiTiOzIQCtKR9X1EFIHowqhav5wM2_ZmnZAoLY",
       link: "https://www.mediafire.com/file/z1h025ydqjekoc2/gtactw.zip/file",
+      details: {
+  author: "TheOfficialFloW",
+  version: "v1.2",
+  size: "521.84 MBs",
+      }
     },
     {
       name: "Max Payne",
       image:
         "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/5f/e4/1e/5fe41e51-3d3b-d396-cb4a-923322bfe4b4/source/512x512bb.jpg",
       link: "https://www.mediafire.com/file/zed8eoxhab149g6/maxpayne.zip/file",
+      details: {
+  author: "fgsfdsfgs",
+  version: "r4",
+  size: "687.14 MBs",
+      }
     },
     {
       name: "Bully",
       image:
         "https://tse3.mm.bing.net/th?id=OIP.qZl_15lW2n0hv2THdD3czAHaHa&pid=Api&P=0&h=220",
       link: "https://www.mediafire.com/file/zqfbomec81ixu69/Bully.zip/file",
+      details: {
+  author: "TheOfficialFloW",
+  version: "v1.0",
+  size: "1.99 GBs",
+      }
     },
     {
       name: "Hollow Knight",
       image:
         "https://tse3.mm.bing.net/th?id=OIP.yksrDyeoiGInEdKYFyreeQHaHa&pid=Api&P=0&h=220",
       link: "https://drive.google.com/file/d/1a_sRARvwmFn3da-TPp4hxY78hhNkkSW9/view?usp=sharing",
+      details: {
+  author: "PatnosD",
+  version: "v0.81 Hotfix",
+  size: "382 MBs",
+      }
     },
     {
       name: "Cuphead",
       image:
         "https://image.api.playstation.com/vulcan/img/cfn/11307fllh6D-IvbpCa18N0vRggVeRYWA06paTNCj3DENJMScAzW2f3ry4IwFcXBAt9kWXdZGpGoOGjxJ_e9MdordMVAosNhZ.png",
       link: "https://drive.google.com/file/d/1rbqc04E4IZXZD3RtTR5cIxkKsohHM4AQ/view?usp=sharing",
+      details: {
+  author: "PatnosD",
+  version: "v0.81",
+  size: "322 MBs",
+      }
     },
     {
       name: "Balatro",
       image:
         "https://image.api.playstation.com/vulcan/ap/rnd/202401/2218/d8c5d5861249cd80a300efb723450f56d0347e4345e2eb80.png",
       link: "https://www.mediafire.com/file/o5f7z5l2m8o8b97/Balatro_V0.11.vpk/file",
+      details: {
+  author: "Daexxxx",
+  version: "v0.11",
+  size: "57.97 MBs",
+      }
     },
     {
       name: "devilutionX/Diablo 1",
