@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://play-lh.googleusercontent.com/3gzidHrtPm8yGZfItWHEIYclWTjcOhd4KMf40Igcv3mOW_KD7T_4oh5A_pMb1E5NOrA",
       link: "https://www.mediafire.com/file/nfcc6u938mxnmgs/gta3.zip/file",
       details: {
-  author: "Rinnegatamante, TheOfficialFloW",
+  author: "Rinnegatamante",
   version: "v1.4",
   size: "2.01 GBs",
 }
