@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
       details: {
   author: "Rinnegatamante, TheOfficialFloW",
   version: "v1.4",
-  size: "2.01 GBs"
+  size: "2.01 GBs",
 }
 
     },
