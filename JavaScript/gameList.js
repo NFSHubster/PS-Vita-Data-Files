@@ -260,6 +260,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://image.winudf.com/v2/image/aW4uY2VsZXN0Lnhhc2gzZC5obF9pY29uXzE1MzE2MDU4OTlfMDQ5/icon.png?w=184&fakeurl=1",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Half%20Life%20%2B%20Counter%20Strike%20%28xash3d%29.zip",
+      details: {
+  author: "fgsfdsfgs",
+  version: "mp-fix",
+  size: "820 MBs",
+      }
     },
     {
       name: "Dead Space Mobile",
@@ -267,6 +272,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://assets-prd.ignimgs.com/2023/01/14/deadspacem-1673686414670.jpg",
       category: "datafile",
       link: "https://drive.google.com/file/d/1AGOIwAghBotGb7fyeVfVHC8sqOUG0Wss/view?usp=sharing",
+      details: {
+  author: "v-atamanenko",
+  version: "v1.3",
+  size: "139 MBs",
+      }
     },
     {
       name: "Battlefield Bad Company 2",
@@ -274,6 +284,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://assets-prd.ignimgs.com/2022/01/04/battlefield-bad-company-2-button-crop-1641279153499.jpg",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Battlefield%3A%20Bad%20Company%202.zip",
+      details: {
+  author: "TheOfficialFloW",
+  version: "v1.0",
+  size: "568 MBs",
+      }
     },
     {
       name: "Need for Speed: Hot Pursuit",
@@ -281,12 +296,22 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse4.mm.bing.net/th?id=OIP.ZK13PerQ7J_thdmhwZ-aWgHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/NFS%20Hot%20Pursuit.zip",
+      details: {
+  author: "Electry",
+  version: "v1.0",
+  size: "419 MBs",
+      }
     },
     {
       name: "Mass Effect Infiltrator",
       image: "https://tse2.mm.bing.net/th?id=OIP.BfzLpV9lQUWcFukrHFd8wQHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/masseffect.zip",
+      details: {
+  author: "v-atamanenko",
+  version: "v1.0",
+  size: "248 MBs",
+      }
     },
     {
       name: "Simpsons Hit & Run",
@@ -294,6 +319,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://gbatemp.net/attachments/the-simpsons-hit-run-01ad26d9bb584000-jpg.400032/",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z",
+      details: {
+  author: "ZenoArrows",
+  version: "v0.6.1",
+  size: "1.4 GBs",
+      }
     },
     {
       name: "Deltarune",
@@ -301,6 +331,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://image.winudf.com/v2/image1/ZGVsdC5ldXMuYXJ1bl9pY29uXzE1NDM5MDk5MzlfMDMz/icon.png?w=184&fakeurl=1",
       category: "datafile",
       link: "https://www.mediafire.com/file/jy1okv1cihkf26q/Deltarune-PSVita.vpk/file",
+      details: {
+  author: "tijesef",
+  version: "v1.0",
+  size: "64.09 MBs",
+      }
     },
     {
       name: "LEGO Star Wars: The Complete Saga",
@@ -308,6 +343,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://play-lh.googleusercontent.com/4X41U-wqnwWpnYBfWmeHsAOkLNvLpWJ4BXeZn0wqu2XzBpLNLvkvOPnBqAnMUOygOQ",
       category: "datafile",
       link: "https://www.mediafire.com/file/2qhxrbu0k14jk4o/lswtcs.zip/file",
+      details: {
+  author: "gm666q",
+  version: "v0.1",
+  size: "1.25 GBs",
+      }
     },
     {
       name: "Portal",
@@ -315,6 +355,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse4.mm.bing.net/th?id=OIP.eoD86qAF9q8meopfwBJYGQHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://mega.nz/file/tRMy1DJI#LU-PwN0-BDkNTu01gJgVRXdWGjOzwYRwh4gNyE7wZK4",
+      details: {
+  author: "Dan Cooper",
+  version: "v1.0",
+  size: "257.8 MBs",
+      }
     },
     {
       name: "Streets of Rage Remake",
