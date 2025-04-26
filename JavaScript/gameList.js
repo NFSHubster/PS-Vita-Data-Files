@@ -750,6 +750,7 @@ function renderGames() {
   games.forEach((game) => {
     const card = document.createElement("div");
     card.classList.add("game-card");
+      card.classList.add(game.category || "datafile");
 
     const content = document.createElement("div");
     content.classList.add("game-content");
@@ -821,4 +822,16 @@ function renderGames() {
   document.getElementById("searchGames").addEventListener("input", searchGames);
 
   setInterval(searchGames, 500);
+  function filterCategory(category) {
+    const cards = document.querySelectorAll(".game-card");
+    cards.forEach((card) => {
+      if (category === "all" || card.classList.contains(category)) {
+        card.style.display = "flex";
+      } else {
+        card.style.display = "none";
+      }
+    });
+  }
+  window.filterCategory = filterCategory;
+
 });
