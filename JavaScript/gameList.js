@@ -947,7 +947,7 @@ document.addEventListener("DOMContentLoaded", function () {
       {
       name: "Minecraft Enhanced",
       image:
-        "https://i.redd.it/890syreavulb1.jpg",
+        "https://media.discordapp.net/attachments/1180478475669348444/1365793738399547462/890syreavulb1_1.jpg?ex=680e9a0a&is=680d488a&hm=4604ce9c3cc363ebc48193c7375d471c0f85cb2d974a4c7851d15758f7dbd962&=&format=webp",
       link: "https://mega.nz/folder/eR0DlDiB#TOeKW_YrHnMvxGeqXUcryg",
       category: "mod",
     },
