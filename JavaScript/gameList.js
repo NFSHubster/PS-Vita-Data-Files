@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+  let activeCategory = "all";
   const games = [
     {
       name: "Grand Theft Auto III",
@@ -910,33 +911,33 @@ function renderGames() {
 
   renderGames();
 
-  function searchGames() {
-    const searchInput = document
-      .getElementById("searchGames")
-      .value.toLowerCase();
-    const cards = document.querySelectorAll(".game-card");
+ function searchGames() {
+  const searchInput = document.getElementById("searchGames").value.toLowerCase();
+  const cards = document.querySelectorAll(".game-card");
 
-    cards.forEach((card) => {
-      const label = card.querySelector("label").textContent.toLowerCase();
-      if (label.includes(searchInput)) {
-        card.style.display = "flex";
-      } else {
-        card.style.display = "none";
-      }
-    });
-  }
+  cards.forEach((card) => {
+    const label = card.querySelector("label").textContent.toLowerCase();
+    const matchesSearch = label.includes(searchInput);
+    const matchesCategory = (activeCategory === "all") || card.classList.contains(activeCategory);
+
+    if (matchesSearch && matchesCategory) {
+      card.style.display = "flex";
+    } else {
+      card.style.display = "none";
+    }
+  });
+}
 
   document.getElementById("searchGames").addEventListener("input", searchGames);
 
   function filterCategory(category) {
-    const cards = document.querySelectorAll(".game-card");
-    cards.forEach((card) => {
-      if (category === "all" || card.classList.contains(category)) {
-        card.style.display = "flex";
-      } else {
-        card.style.display = "none";
-      }
-    });
+  activeCategory = category;
+  searchGames();
+
+  const drawer = document.querySelector('sl-drawer');
+  if (drawer && drawer.open) {
+    drawer.hide();
+  }
 }
 window.filterCategory = filterCategory;
 
