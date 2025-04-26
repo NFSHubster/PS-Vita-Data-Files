@@ -678,24 +678,28 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://i.redd.it/890syreavulb1.jpg",
       link: "https://mega.nz/folder/eR0DlDiB#TOeKW_YrHnMvxGeqXUcryg",
+      category: "mod",
     },
     {
       name: "Minecraft Updated: 1st file",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMaFMtCe0cyygKC6CCo5voIOgStocQBPSzQ&s",
       link: "https://www.mediafire.com/file/5s1jf3qrliycttx/Minecraft_Updated_RePatch.zip/file",
+      category: "mod",
     },
     {
       name: "Minecraft Updated: 2nd file",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMaFMtCe0cyygKC6CCo5voIOgStocQBPSzQ&s",
       link: "https://www.mediafire.com/file/lqcgwqg1dsbvd2z/mcu_1.1.zip/file",
+      category: "mod",
     },
     {
       name: "Borderlands 2 Patch",
       image:
         "https://tse3.mm.bing.net/th?id=OIP.y-_O8XY42vAJxufgVxf5JwHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Borderlands%202%20Patch.7z",
+      category: "mod",
       footer: "A Homebrew patch that was created to make Borderlands 2 playable on the PlayStation Vita at a stable 30 FPS"
     },
     {
@@ -703,6 +707,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://tse3.mm.bing.net/th?id=OIP.q_LYK8LK1fyMx8SWhzyDZwHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Need%20for%20Speed%20Most%20Wanted%20Upgrades.7z",
+      category: "mod",
       footer: "This modpack includes the NFS MW REDUX modification and adds custom cars such as police vehicles & multiplayer cars"
     },
     {
