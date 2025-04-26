@@ -1,3 +1,4 @@
+let activeCategory = "all";
 document.addEventListener("DOMContentLoaded", function () {
   const games = [
     {
@@ -929,15 +930,14 @@ function renderGames() {
   document.getElementById("searchGames").addEventListener("input", searchGames);
 
   function filterCategory(category) {
-    const cards = document.querySelectorAll(".game-card");
-    cards.forEach((card) => {
-      if (category === "all" || card.classList.contains(category)) {
-        card.style.display = "flex";
-      } else {
-        card.style.display = "none";
-      }
-    });
+  activeCategory = category;
+  searchGames(); // Re-run search + filtering
+
+  const drawer = document.querySelector('sl-drawer');
+  if (drawer && drawer.open) {
+    drawer.hide();
   }
-  window.filterCategory = filterCategory;
+}
+window.filterCategory = filterCategory;
 
 });
