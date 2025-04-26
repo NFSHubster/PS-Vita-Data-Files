@@ -105,24 +105,132 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://play-lh.googleusercontent.com/TkJVdT7FvFf16WmqxKp9XfJ7Pjy0a0GhVo3gXYk6OeTn7d59SF4K0Fst2cAf2xAyIA",
       link: "https://www.mediafire.com/folder/2tc0z0a56a0ye/diasurgical",
+      details: {
+  author: "Diasurgical",
+  version: "v1.5.4",
+  size: "668 MBs",
+      }
     },
     {
       name: "Blasphemous",
       image:
         "https://images.nintendolife.com/2de5ec267262e/blasphemous-cover.cover_large.jpg",
       link: "https://www.mediafire.com/file/1958318axcnco2k/Blasphemous_Vita_Port.7z/file",
+      details: {
+  author: "gl00mm",
+  version: "beta-1",
+  size: "361.74 MBs",
+      }
     },
     {
       name: "This War of Mine",
       image:
         "https://tse2.mm.bing.net/th?id=OIP.qwjzy02CT3wIUYfS7aeuzAHaHa&pid=Api&P=0&h=220",
       link: "https://www.mediafire.com/file/ossr9giltvaasjl/This_War_of_Mine.rar/file",
+      details: {
+  author: "TheOfficialFloW",
+  version: "v1.0",
+  size: "525.84 MBs",
+      }
     },
     {
       name: "Fahrenheit: Indigo Prophecy",
       image:
         "https://pdacdn.com/app/59522c32d4d57/fahrenheit-indigo-prophecy.png",
       link: "https://www.mediafire.com/file/018vreisks2ulim/fahrenheit_v0.8.ZIP/file",
+      details: {
+  author: "Rinnegatamante",
+  version: "v0.8",
+  size: "2.54 GBs",
+      }
+    },
+    {
+      name: "Cook! Serve! Delicious!",
+      image:
+        "https://play-lh.googleusercontent.com/4jzgsPrAcV7ybbXJmNL-gEo9aIF0e9hivPVWtrUzYKw7QwsVo0lZYnlnmhkicHzpbcle",
+      link: "https://mega.nz/file/3NZBgaoa#vGBl5rhr09e6AjN_vn2fHmFnlwphvaAA9KgQh5_qgVI",
+      details: {
+  author: "MDashK",
+  version: "v1.0",
+  size: "82 MBs",
+      }
+    },
+    {
+      name: "Flop Rocket",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0fgUjl_hWbtKrSjN2U8MtvPgXpsUKCBhdg&s",
+      link: "https://mega.nz/file/2U4jWA7Q#A4YF-VL2F2QahR0S0-2ap00nhILukvAXr9FtxzGkZ6c",
+      details: {
+  author: "MDashK",
+  version: "v1.0",
+  size: "44.3 MBs",
+      }
+    },
+    {
+      name: "GUN GODZ",
+      image:
+        "https://img.itch.zone/aW1hZ2UvNjYwLzMxNDIucG5n/original/MuiN1f.png",
+      link: "https://mega.nz/file/XV4WnKyK#OSqAHgyFGheR2BmxTaMwGQv81eI8y8-4G4Ymp5djkqc",
+      details: {
+  author: "m1s3ry",
+  version: "v1.0",
+  size: "21.3 MBs",
+      }
+    },
+    {
+      name: "IMSCARED",
+      image:
+        "https://play-lh.googleusercontent.com/msfvJf882RBpfVdckSaY9GrxSbCRFT7fH5bLXDR82Oskp1T7rclgKFWy5B7c__4rW1A",
+      link: "https://mega.nz/file/DRoDWZiA#TFiPSj0Fbdne9NR2ljX5LWmrFz3BwKuowrSYILzeoFE",
+      details: {
+  author: "imscared",
+  version: "v1.2",
+  size: "38.9 MBs",
+      }
+    },
+    {
+      name: "Minit",
+      image:
+        "https://img.tapimg.net/market/images/96ef3106c0bb2ceeff889163fff4ca20.png/appicon?t=1",
+      link: "https://mega.nz/file/DAJRDapD#nbv6Frhx-55VJUXgqxFS14w5_RnJr-gDDZrHIS2xWLs",
+      details: {
+  author: "m1s3ry",
+  version: "v1.1",
+  size: "166.6 MBs",
+      }
+    },
+    {
+      name: "Please, Don't Touch Anything",
+      image:
+        "https://play-lh.googleusercontent.com/umdM8MaI87D-rR4D0qX-GqDv_s6Ewh0Zbx14VQgk0SNIWZ8JAENS7pXZ--3p7lL6ciI",
+      link: "https://mega.nz/file/3IB22CJZ#jIPe8gySESdxRcUroQfWM3fAdCAkrDz6PyDKgdmhiIc",
+      details: {
+  author: "hatoving",
+  version: "v1.0",
+  size: "34.2 MBs",
+      }
+    },
+    {
+      name: "Franbow Chapter 1",
+      image:
+        "https://play-lh.googleusercontent.com/dd380Gx3aBDUeGdD51WiesMoOI429mAVzjQKqqQxQXwaOq5I6KNanx1ZazEyVUXqkLs",
+      link: "https://www.mediafire.com/file/ekfkjsuxanjd91n/FBCH10408_-_Fran_Bow_Chapter_1_-_With_game_data.vpk/file",
+      details: {
+  author: "hatoving",
+  version: "v2.07",
+  size: "94.29 MBs",
+      }
+    },
+    {
+      name: "Franbow Chapter 2",
+      image:
+        "https://play-lh.googleusercontent.com/rEBXyKqDe6D610A8--a2iL1z-yePJDZfqoDFOZUBuQtR2RMzouiEm4eHTXrmJNpnBi8",
+      link: "https://www.mediafire.com/file/q5c1pce9afchcxr/FBCH20409_-_Fran_Bow_Chapter_2_-_With_game_data.vpk/file",
+      details: {
+  author: "hatoving",
+  version: "v2.02",
+  size: "146.81 MBs",
+      }
     },
     {
       name: "xash3d/Half-Life & Counter Strike",
