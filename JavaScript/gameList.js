@@ -921,9 +921,9 @@ function renderGames() {
     const matchesCategory = (activeCategory === "all") || card.classList.contains(activeCategory);
 
     if (matchesSearch && matchesCategory) {
-      card.classList.remove('hide');
+      card.classList.remove('flex');
     } else {
-      card.classList.add('hide');
+      card.classList.add('none');
     }
   });
 }
