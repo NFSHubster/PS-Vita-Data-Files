@@ -912,33 +912,33 @@ function renderGames() {
   renderGames();
 
  function searchGames() {
-  const searchInput = document.getElementById("searchGames").value.toLowerCase();
-  const cards = document.querySelectorAll(".game-card");
+    const searchInput = document.getElementById("searchGames").value.toLowerCase();
+    const cards = document.querySelectorAll(".game-card");
 
-  cards.forEach((card) => {
-    const label = card.querySelector("label").textContent.toLowerCase();
-    const matchesSearch = label.includes(searchInput);
-    const matchesCategory = (activeCategory === "all") || card.classList.contains(activeCategory);
+    cards.forEach((card) => {
+      const label = card.querySelector("label").textContent.toLowerCase();
+      const matchesSearch = label.includes(searchInput);
+      const matchesCategory = (activeCategory === "all") || card.classList.contains(activeCategory);
 
-    if (matchesSearch && matchesCategory) {
-      card.classList.remove('flex');
-    } else {
-      card.classList.add('none');
-    }
-  });
-}
+      if (matchesSearch && matchesCategory) {
+        card.style.display = "flex";
+      } else {
+        card.style.display = "none";
+      }
+    });
+  }
 
   document.getElementById("searchGames").addEventListener("input", searchGames);
 
   function filterCategory(category) {
-  activeCategory = category;
-  searchGames();
+    activeCategory = category;
+    searchGames();
 
-  const drawer = document.querySelector('sl-drawer');
-  if (drawer && drawer.open) {
-    drawer.hide();
+    const drawer = document.querySelector('sl-drawer');
+    if (drawer && drawer.open) {
+      drawer.hide();
+    }
   }
-}
-window.filterCategory = filterCategory;
+  window.filterCategory = filterCategory;
 
 });
