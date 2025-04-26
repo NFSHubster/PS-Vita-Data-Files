@@ -1,4 +1,3 @@
-let activeCategory = "all";
 document.addEventListener("DOMContentLoaded", function () {
   const games = [
     {
