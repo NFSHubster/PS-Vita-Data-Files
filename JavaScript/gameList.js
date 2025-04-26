@@ -748,7 +748,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Mario Kart Vita",
       image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgjDp7EjaC97K6Dxeat_2-c_JTsCR-sgkIcw&s",
+        "https://media.discordapp.net/attachments/1180478475669348444/1365795871047815319/images_1_1.jpg?ex=680e9c06&is=680d4a86&hm=d6a5b1965df0ee85f111d64ef5e8d05aa0b81a8ab17e09cd93568477169c82a9&=&format=webp",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Mario%20Kart%20Vita.zip",
     },
