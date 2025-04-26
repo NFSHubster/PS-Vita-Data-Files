@@ -640,6 +640,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://upload.wikimedia.org/wikipedia/en/3/34/Command_%26_Conquer_1995_cover.jpg",
       category: "datafile",
       link: "https://www.mediafire.com/folder/r9r54qoqq4b8d/Command_and_Conquer_Tiberian_Dawn",
+      details: {
+  author: "Northfear",
+  version: "v.1.0-r914",
+  size: "895 MBs",
+      }
     },
     {
       name: "Zelda 3: A Link to the Past",
