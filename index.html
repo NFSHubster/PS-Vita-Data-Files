@@ -34,20 +34,20 @@
                 slot="header-actions"
                 name="box-arrow-up-right"
               ></sl-icon-button>
-              <sl-menu>
-                <label>Main Menu</label>
-                <sl-divider></sl-divider>
-                <sl-menu-item>
-                  <sl-icon slot="prefix" name="joystick"></sl-icon>
-                  <a href="#">Data Files</a>
-                  <!-- Not completed yet -->
-                </sl-menu-item>
-                <sl-menu-item>
-                  <sl-icon slot="prefix" name="usb-plug"></sl-icon>
-                  <a href="#">Mods</a>
-                  <!-- Not completed yet-->
-                </sl-menu-item>
-              </sl-menu>
+              <sl-menu-item>
+  <sl-icon slot="prefix" name="joystick"></sl-icon>
+  <a href="#" onclick="filterCategory('datafile')">Data Files</a>
+</sl-menu-item>
+
+<sl-menu-item>
+  <sl-icon slot="prefix" name="usb-plug"></sl-icon>
+  <a href="#" onclick="filterCategory('mod')">Mods</a>
+</sl-menu-item>
+
+<sl-menu-item>
+  <sl-icon slot="prefix" name="grid"></sl-icon>
+  <a href="#" onclick="filterCategory('all')">All</a>
+</sl-menu-item>
               <br />
 
               <sl-button slot="footer" variant="success" outline id="github">
