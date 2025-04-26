@@ -928,7 +928,6 @@ function renderGames() {
 
   document.getElementById("searchGames").addEventListener("input", searchGames);
 
-  setInterval(searchGames, 500);
   function filterCategory(category) {
     const cards = document.querySelectorAll(".game-card");
     cards.forEach((card) => {
