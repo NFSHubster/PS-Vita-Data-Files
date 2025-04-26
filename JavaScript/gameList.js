@@ -940,7 +940,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Kindergarten 2",
       image:
-        "https://steamcdn-a.akamaihd.net/steam/apps/1067850/header.jpg?t=1564463264",
+        "https://media.discordapp.net/attachments/1180478475669348444/1365794458691698891/header_1_1.jpg?ex=680e9ab6&is=680d4936&hm=ad8ab9c3bfc2ac4a98832c4bbb4342a8e82f02fc3255c4d06685e13aa8af2db9&=&format=webp",
       category: "datafile",
       link: "https://static.tvtropes.org/pmwiki/pub/images/kindergarten2_principal.png",
     },
