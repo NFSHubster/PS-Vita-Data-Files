@@ -34,6 +34,11 @@
                 slot="header-actions"
                 name="box-arrow-up-right"
               ></sl-icon-button>
+             <sl-menu-item>
+  <sl-icon slot="prefix" name="grid"></sl-icon>
+  <a href="#" onclick="filterCategory('all')">All</a>
+</sl-menu-item>
+              
               <sl-menu-item>
   <sl-icon slot="prefix" name="joystick"></sl-icon>
   <a href="#" onclick="filterCategory('datafile')">Data Files</a>
@@ -42,11 +47,6 @@
 <sl-menu-item>
   <sl-icon slot="prefix" name="usb-plug"></sl-icon>
   <a href="#" onclick="filterCategory('mod')">Mods</a>
-</sl-menu-item>
-
-<sl-menu-item>
-  <sl-icon slot="prefix" name="grid"></sl-icon>
-  <a href="#" onclick="filterCategory('all')">All</a>
 </sl-menu-item>
               <br />
 
