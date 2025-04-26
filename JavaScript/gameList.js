@@ -367,6 +367,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://img.utdstc.com/icon/92a/839/92a839b477f5e13424e906a9267a136ef2f9dce04c11f1a9acd7bfa1291baa49:200",
       category: "datafile",
       link: "https://www.mediafire.com/folder/eu9tlr8fe640b/Streets_of_Rage_Remake",
+       details: {
+  author: "isage",
+  version: "v1.3",
+  size: "327 MBs",
+      }
     },
     {
       name: "Shadow Warrior",
@@ -374,6 +379,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://play-lh.googleusercontent.com/iBFtK_5TrtXRVU9ESK73dmfcc2K9wByrDYfrdCo1rL5H_-fbfNSld-a7ZwtTNBOg1mE",
       category: "datafile",
       link: "https://www.mediafire.com/folder/2ph3mijz0bng1/Shadow_Warrior",
+      details: {
+  author: "Rinnegatamante",
+  version: "v0.0.2",
+  size: "107 MBs",
+      }
     },
     {
       name: "Final Fantasy Dimensions",
@@ -381,6 +391,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://assets-prd.ignimgs.com/2022/05/23/ffdimensions-1653332120734.jpg?width=300&crop=1:1%2Csmart",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Fina%20Fantasy%20Dimensions.zip",
+      details: {
+  author: "Rinnegatamante",
+  version: "v1.2",
+  size: "180 MBs",
+      }
     },
     {
       name: "Final Fantasy 3",
@@ -388,6 +403,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://image.api.playstation.com/vulcan/ap/rnd/202301/1210/7SjuZOeJFmJutHbNviOsfhHa.png",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%203%20%28ff3%29.zip",
+      details: {
+  author: "frangarcj",
+  version: "v1.1",
+  size: "337 MBs",
+      }
     },
     {
       name: "Final Fantasy 4",
@@ -395,6 +415,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse3.mm.bing.net/th?id=OIP.BQ-saEVLM4FxubmbkEkHVwHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%204%20%28ff4%29.zip",
+      details: {
+  author: "Rinnegatamante",
+  version: "v1.3.1",
+  size: "519 MBs",
+      }
     },
     {
       name: "Final Fantasy 4 The After Years",
@@ -402,18 +427,33 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse3.mm.bing.net/th?id=OIP.iAzlMiMXLdHus_aP5ERY5QHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%20After%20Years%28ff4a%29.zip",
+      details: {
+  author: "Rinnegatamante",
+  version: "v1.0.1",
+  size: "454 MBs",
+      }
     },
     {
       name: "Final Fantasy 5",
       image: "https://gamefaqs.gamespot.com/a/box/7/8/8/929788_front.jpg",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip",
+      details: {
+  author: "frangarcj",
+  version: "v1.0",
+  size: "126 MBs",
+      }
     },
     {
       name: "Doki Doki Literature Club",
       image: "https://pdacdn.com/app/5ffc22db87d6d/doki_doki_literature_club-logo.png",
       category: "datafile",
       link: "https://www.mediafire.com/file/athfkxpgit604zi/Doki.Doki.Literature.Club-01.01.vpk/file",
+      details: {
+  author: "SonicMastr",
+  version: "v1.0",
+  size: "208.87 MBs",
+      }
     },
     {
       name: "7 Billion Humans",
@@ -499,14 +539,21 @@ document.addEventListener("DOMContentLoaded", function () {
       link: "https://drive.google.com/file/d/1iSAoCEorNS-gWzyX1T7QVEYZe51szsrp/view?usp=sharing",
     },
     {
-      name: "Command & Conquer: Red Alert",
+      name: "RollerCoaster Tycoon 2 (OpenRCT2)",
+      image:
+        "https://i.namu.wiki/i/xZWGxdohJAH2H_051vtePuMWXYtQQ01mi6Uo2rRJeCIzzb1EEmhGubCKw27F1jQx6GvWZz1PNSAK8zQjEvBOLg.webp",
+      category: "datafile",
+      link: "https://www.mediafire.com/file/pz70ups9juzq44n/RCT2.7z/file",
+    },
+    {
+      name: "Command & Conquer: Red Alert (OpenRA)",
       image:
         "https://m.media-amazon.com/images/I/711BwJ0-iUL._SL1500_.jpg",
       category: "datafile",
       link: "https://www.mediafire.com/folder/cc9u81vik1lgj/Command_and_Conquer_Red_Alert",
     },
     {
-      name: "Command & Conquer: Tiberian Dawn",
+      name: "Command & Conquer: Tiberian Dawn (OpenTD)",
       image:
         "https://upload.wikimedia.org/wikipedia/en/3/34/Command_%26_Conquer_1995_cover.jpg",
       category: "datafile",
