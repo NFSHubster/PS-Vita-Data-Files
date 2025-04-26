@@ -22,8 +22,7 @@
   color: white;
   text-align: center;
   box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-  transition: transform 0.2s ease-in-out, opacity 0.4s ease, transform 0.4s ease;
-  opacity: 1;
+  transition: transform 0.2s ease-in-out;
 }
 
 .game-card:hover {
@@ -109,9 +108,7 @@
     font-size: 0.9em;
     padding: 0.5em;
   }
-}
-
-.game-description {
+  .game-description {
   margin-top: 8px;
   font-size: 0.85em;
   color: #ccc;
@@ -133,9 +130,4 @@
   margin: 2px 0;
 }
 
-
-.game-card.hide {
-  opacity: 0;
-  transform: scale(0.95);
-  pointer-events: none;
 }
