@@ -460,6 +460,11 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "https://play-lh.googleusercontent.com/s9HPmfJob3F2q2QjtF_Z7asRMRa7kPqcM_DpAfhoR-5CSqRzKey8h-ZzeoHu3VJyHQ",
       category: "datafile",
       link: "https://drive.google.com/drive/folders/1GD2Tk9R7uVR0Pc5o_On-tOs0QdWqPiNW?usp=drive_link",
+      details: {
+  author: "Rinnegatamante",
+  version: "v1.1",
+  size: "136 MBs",
+      }
     },
     {
       name: "Carmageddon",
@@ -467,6 +472,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/59522b07393d8/carmageddon.png",
       category: "datafile",
       link: "https://www.mediafire.com/folder/255dynf60gcrv/Carmageddon",
+      details: {
+  author: "Rinnegatamante",
+  version: "v1.0",
+  size: "141 MBs",
+      }
     },
     {
       name: "Carmageddon Splat Pack",
@@ -474,6 +484,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://assets-prd.ignimgs.com/2022/05/13/carmageddon-splat-pack-button-1652403026426.jpg",
       category: "datafile",
       link: "https://www.mediafire.com/folder/7ekyo92xjx682/Carmageddon_Splat_Pack",
+      details: {
+  author: "Rinnegatamante",
+  version: "v1.0",
+  size: "186 MBs",
+      }
     },
     {
       name: "Ducktales: Remastered",
@@ -481,6 +496,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://static1.anpoimages.com/wordpress/wp-content/uploads/2015/04/nexus2cee_app-cover1.png",
       category: "datafile",
       link: "https://www.mediafire.com/folder/m3ra2j6mo17xk/Ducktales_Remastered",
+      details: {
+  author: "TechnicalJicama",
+  version: "v1.0",
+  size: "405 MBs",
+      }
     },
     {
       name: "Modern Combat 3: Fallen Nation",
@@ -488,6 +508,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://img.tapimg.net/market/images/34d23754f87ccac5cff8e5f28c678ba8.png",
       category: "datafile",
       link: "https://www.mediafire.com/folder/s3t22w98hlrxm/Modern_Combat_3",
+      details: {
+  author: "v-atamenenko",
+  version: "v1.1",
+  size: "745 MBs",
+      }
     },
     {
       name: "Baba is You",
@@ -495,6 +520,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://play-lh.googleusercontent.com/yBi3fqxlKVOUAogys4SqYfVmIYEBCsGAKbNdIUCUkxymzL5vZ2mUEqF5VAcTiDZYN6s",
       category: "datafile",
       link: "https://www.mediafire.com/folder/t3wa4aqcf0wqr/Baba_is_You",
+      details: {
+  author: "v-atamenenko",
+  version: "v1.4",
+  size: "87 MBs",
+      }
     },
     {
       name: "Fallout 1",
@@ -502,6 +532,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://assets-prd.ignimgs.com/2022/01/27/fallout-1-button-edit-1643322142537.jpg?width=300&crop=1%3A1%2Csmart&auto=webp",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/fallout.7z",
+      details: {
+  author: "Northfear",
+  version: "v1.1.0",
+  size: "474 MBs",
+      }
     },
     {
       name: "Fallout 2",
@@ -509,6 +544,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse3.mm.bing.net/th?id=OIP.da52RgYN84U8Vclwfp6pXgHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/fallout2.zip",
+      details: {
+  author: "Northfear",
+  version: "v1.3.0",
+  size: "552 MBs",
+      }
     },
     {
       name: "Tom Clancy's Splinter Cell: Conviction",
@@ -516,6 +556,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse1.mm.bing.net/th?id=OIP.xLFkavflwT49Gmc5tZesewHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://www.mediafire.com/file/mn5cm5cac7l9cz2/splintercell.7z/file",
+      details: {
+  author: "Rinnegatamante",
+  version: "v1.1",
+  size: "164.21 MBs",
+      }
     },
     {
       name: "Crazy Taxi",
@@ -523,6 +568,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://app.famitsu.com/wp-content/uploads/2013/07/CRAZYTAXI_icon.jpg",
       category: "datafile",
       link: "https://www.mediafire.com/file/z58698zfgbbqt06/crazy_taxi_classic.zip/file",
+      details: {
+  author: "TheOfficialFloW",
+  version: "v1.2",
+  size: "135.17 MBs",
+      }
     },
     {
       name: "Subway Surfers",
@@ -530,6 +580,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://play-lh.googleusercontent.com/bBF-xD47BOb3nfbbXF-Isx8LdZHX_Uxz6h14ughVjhCVDzdWU2NeJzJIv1wW4F1q7Rw",
       category: "datafile",
       link: "https://www.mediafire.com/file/7cgatjzd61dtyrf/SubwaySurfers.vpk/file",
+      details: {
+  author: "PatnosD",
+  version: "alpha-1",
+  size: "40.81 MBs",
+      }
     },
     {
       name: "Unsighted",
@@ -537,6 +592,23 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://images.nintendolife.com/b70f39ee9780c/unsighted-cover.cover_300x.jpg",
       category: "datafile",
       link: "https://drive.google.com/file/d/1iSAoCEorNS-gWzyX1T7QVEYZe51szsrp/view?usp=sharing",
+      details: {
+  author: "PatnosD",
+  version: "v0.3",
+  size: "500 MBs",
+      }
+    },
+    {
+      name: "Muse Dash",
+      image:
+        "https://musedash.net/muse_dash_apk.webp",
+      category: "datafile",
+      link: "https://drive.google.com/file/d/1gtXQ0Jq-b5CFgrfSVX5qJ1JVJGMiFRlW/view",
+      details: {
+  author: "PatnosD",
+  version: "v0.1",
+  size: "67 MBs",
+      }
     },
     {
       name: "RollerCoaster Tycoon 2 (OpenRCT2)",
@@ -544,6 +616,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://i.namu.wiki/i/xZWGxdohJAH2H_051vtePuMWXYtQQ01mi6Uo2rRJeCIzzb1EEmhGubCKw27F1jQx6GvWZz1PNSAK8zQjEvBOLg.webp",
       category: "datafile",
       link: "https://www.mediafire.com/file/pz70ups9juzq44n/RCT2.7z/file",
+      details: {
+  author: "TechnicalJicama",
+  version: "v1.0",
+  size: "468.38 MBs",
+      }
     },
     {
       name: "Command & Conquer: Red Alert (OpenRA)",
