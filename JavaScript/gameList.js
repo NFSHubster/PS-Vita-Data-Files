@@ -628,6 +628,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://m.media-amazon.com/images/I/711BwJ0-iUL._SL1500_.jpg",
       category: "datafile",
       link: "https://www.mediafire.com/folder/cc9u81vik1lgj/Command_and_Conquer_Red_Alert",
+      details: {
+  author: "Northfear",
+  version: "v.1.0-r914",
+  size: "1.04 GBs",
+      }
     },
     {
       name: "Command & Conquer: Tiberian Dawn (OpenTD)",
