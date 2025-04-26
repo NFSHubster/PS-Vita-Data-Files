@@ -714,36 +714,42 @@ document.addEventListener("DOMContentLoaded", function () {
       name: "Dirty Fantasy (NSFW)",
       image:
         "https://image.gamespot.com.cn/upload/202411/19/47107ulkxp2mHdr.png",
+      category: "nsfw",
       link: "https://www.mediafire.com/folder/j2t5pur6nz6jp/Dirty+Fantasy",
     },
     {
       name: "Pirate Trainer (NSFW)",
       image:
         "https://img.40407.com/upload/202407/21/6bae12NETebL1FS.png",
+      category: "nsfw",
       link: "https://www.mediafire.com/file/sribf1xm9rss22i/Pirate_Trainer-01.00.vpk/file",
     },
     {
       name: "A New Dawn (NSFW)",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShdhoopEVODH8UPk67jLXyNgUMeUP3hQBGCw&s",
+      category: "nsfw",
       link: "https://www.mediafire.com/file/4udpzvcqxw86x7k/A_New_Dawn-01.00.vpk/file",
     },
     {
       name: "Aurelia (NSFW)",
       image:
         "https://ugc.production.linktr.ee/9fa7e582-b9b3-4b0e-8dc5-2ab785ac43b7_WX20241223-204342-2x.png",
+      category: "nsfw",
       link: "https://github.com/NFSHubster/Aurelia-PS-Vita/releases/download/V2.0/Aurelia.vpk",
     },
     {
       name: "SiNiSistar (NSFW)",
       image:
         "https://source.boomplaymusic.com/group10/M00/12/30/dda69925c70c411eb3cb300471abd9e5H512W512_320_320.jpg",
+      category: "nsfw",
       link: "https://www.mediafire.com/file/axsoccatqv63rbr/SiNiSistar_Alpha_v0.5.vpk/file",
     },
     {
       name: "Sakura Hime (NSFW)",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwXYWECJVvco-wdqKVOwDh9MJGhWDyJTt58g&s",
+      category: "nsfw",
       link: "https://www.mediafire.com/file/n3n6s2xwd237qk7/Sakura_Hime_Beta_v0.8.vpk/file",
     },
   ];
