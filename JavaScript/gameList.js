@@ -727,7 +727,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://pdacdn.com/app/59522b75a52db/the-world-ends-with-you.png",
       category: "datafile",
-      link: "https://archive.org/download/psv-homebrew/Data%20Files/The%20World%20Ends%20With%20Youzip",
+      link: "https://drive.google.com/file/d/1gZ5v4mY8qtiOZ5t5_KPvQCJpuZOUYOo4/view?usp=sharing",
     },
     {
       name: "Driver 2",
