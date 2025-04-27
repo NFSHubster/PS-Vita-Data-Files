@@ -652,6 +652,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse2.mm.bing.net/th?id=OIP.iyXfCHXe45Y5MD24BM4yxgHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://drive.google.com/file/d/1PJAKw_qIrWdo52eWjfVdxedS0aMnNtNd/view",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.2.1",
+        size: "4 MBs",
+            }
     },
     {
       name: "Super Mario 64",
@@ -659,6 +664,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse3.mm.bing.net/th?id=OIP.BvriPJra1wbseYngRo0dpwHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://www.mediafire.com/file/4xe47qz7i8fw165/sm64.us.60fps.vpk/file",
+      details: {
+        author: "B45417 & rrhyacinth",
+        version: "v.1.0",
+        size: "6 MBs",
+            }
     },
     {
       name: "Ultimate Spiderman: Total Mayhem",
@@ -666,12 +676,22 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://is5-ssl.mzstatic.com/image/thumb/Purple1/v4/7d/87/4a/7d874af2-b30a-ec51-fac8-b5ed01637a88/source/512x512bb.jpg",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Ultimate%20Spider-Man%3A%20Total%20Mayhem.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.2",
+        size: "156 MBs",
+            }
     },
     {
       name: "Tomb Raider 1 & 2 Classic",
       image: "https://archive.org/download/tomb-raider-i/m_tomb-raider-i.png",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Tomb%20Raider%201%20and%202%20Classic%20v1.0.2.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.2",
+        size: "608 MBs",
+            }
     },
     {
       name: "Spelunky Classic HD",
@@ -679,6 +699,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse2.mm.bing.net/th?id=OIP.eOLMS4QUJMZ6VC1eTt1ZigHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://github.com/SiulPop/Spelunky.Classic.HD.VITA./releases/download/speunky.vita/Spelunky-Classic.VPK",
+      details: {
+        author: "SiulPop",
+        version: "v.1.0",
+        size: "7.8 MBs",
+            }
     },
     {
       name: "Soul Calibur",
@@ -686,6 +711,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://image.gameapps.hk/images/201309/07/AAA.jpg",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Soulcalibur.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.1",
+        size: "167 MBs",
+            }
     },
     {
       name: "AM2R",
@@ -693,6 +723,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/5b60019560ddd/1401-profile-am2r-another-metroid-2-remake.png",
       category: "datafile",
       link: "https://drive.google.com/file/d/1uLrBPL4MDjNAYxmXjdQk1cV2aYBj7ies/view?pli=1",
+      details: {
+        author: "tijesef",
+        version: "v.1.4.5.1",
+        size: "285.2 MBs",
+            }
     },
     {
       name: "Jump King",
@@ -700,6 +735,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://img.utdstc.com/icon/df6/fa4/df6fa459eb88a7231cbdd89ce9a0066ed860f244a0150e87d1910d395cf63165:200",
       category: "datafile",
       link: "https://github.com/Rocroverss/JumpKingGodot/releases/download/v1.01/JumpKing.vpk",
+      details: {
+        author: "Rocroverss",
+        version: "v.1.0.1",
+        size: "24.2 MBs",
+            }
     },
     {
       name: "OttoMatic",
@@ -707,6 +747,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse4.mm.bing.net/th?id=OIP.LHKfiB4f4qzF7isLr1X9EgHaHZ&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://www.mediafire.com/folder/h36ya3zzwita5/OttoMatic",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "138 MBs",
+            }
     },
     {
       name: "Death Road to Canada",
@@ -714,6 +759,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://play-lh.googleusercontent.com/rpC70ha-hZM85OroGMRlh4q5ff2oEpJWd2-Uqu5oGAdVgVMPG3aPbV4cvaN0G77wQg",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Death%20Road%20to%20Canada.7z",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "76.4 MBs",
+            }
     },
     {
       name: "Mighty Mike",
@@ -721,6 +771,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://img.itch.zone/aW1nLzkxNzE4NTcuanBn/original/NZZtBG.jpg",
       category: "datafile",
       link: "https://www.mediafire.com/folder/k8f5iesjwzuum/Mighty_Mike",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "8 MBs",
+            }
     },
     {
       name: "The World Ends With You",
@@ -728,6 +783,12 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/59522b75a52db/the-world-ends-with-you.png",
       category: "datafile",
       link: "https://drive.google.com/file/d/1gZ5v4mY8qtiOZ5t5_KPvQCJpuZOUYOo4/view?usp=sharing",
+      footer: "Note: Create a folder in ux0/data and call it TWEWY in order for the game to create save files properly."
+      details: {
+        author: "hatoving",
+        version: "v.1.1",
+        size: "714 MBs",
+            }
     },
     {
       name: "Driver 2",
