@@ -783,7 +783,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/59522b75a52db/the-world-ends-with-you.png",
       category: "datafile",
       link: "https://drive.google.com/file/d/1gZ5v4mY8qtiOZ5t5_KPvQCJpuZOUYOo4/view?usp=sharing",
-      footer: "Note: Create a folder in ux0/data and call it TWEWY in order for the game to create save files properly."
+      footer: "Note: Create a folder in ux0/data and call it TWEWY in order for the game to create save files properly.",
       details: {
         author: "hatoving",
         version: "v.1.1",
