@@ -796,6 +796,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://assets-prd.ignimgs.com/2022/10/10/driver2-1665446127223.jpg",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Driver%202.zip",
+      details: {
+        author: "OsirisX",
+        version: "v.1.0",
+        size: "429 MBs",
+            }
     },
     {
       name: "Return To The Castle: Wolfenstein",
@@ -803,6 +808,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://dl.apkawards.com/moda/dl16/games/rtcw4a/img/rtcw4a.png?v=22",
       category: "datafile",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Return%20to%20Castle%20Wolfenstein.7z",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.0.6",
+        size: "652 MBs",
+            }
     },
     {
       name: "Wolfenstein 3D",
@@ -810,13 +820,35 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://images.sftcdn.net/images/t_app-icon-m/p/d5ae8d92-96d7-11e6-b21e-00163ed833e7/2185270521/wolfenstein-3d-download.png",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Wolfenstein%203D.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.7",
+        size: "2.1 MBs",
+            }
+    },
+    {
+      name: "Wolfenstein RPG",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWkpZzXfTtrWFbEI3_Yu0voDPqoN7u7livHQ&s",
+      category: "datafile",
+      link: "https://www.mediafire.com/file/beaqov4888j8b4j/wolf-rpg.7z/file",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "25.99 MBs",
+            }
     },
     {
       name: "Mario Kart Vita",
       image:
-        "https://media.discordapp.net/attachments/1180478475669348444/1365795871047815319/images_1_1.jpg?ex=680e9c06&is=680d4a86&hm=d6a5b1965df0ee85f111d64ef5e8d05aa0b81a8ab17e09cd93568477169c82a9&=&format=webp",
+        "https://www.vita.unaux.com/img/mkv.webp",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Mario%20Kart%20Vita.zip",
+      details: {
+        author: "VitaHex",
+        version: "v.1.21",
+        size: "104 MBs",
+            }
     },
     {
       name: "Crashlands",
@@ -824,6 +856,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/59522c2382277/crashlands.png",
       category: "datafile",
       link: "https://www.mediafire.com/file/h803vpygycl2tc4/CRASHLAND_-_With_game_data_-_FIXED_ERROR__0x80870005.VPK/file",
+      
     },
     {
       name: "Bugdom",
@@ -831,6 +864,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "http://www.mobygames.com/images/covers/l/11020-bugdom-windows-front-cover.jpg",
       category: "datafile",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Bugdom.vpk",
+      details: {
+        author: "jorio",
+        version: "v.1.3.4",
+        size: "48 MBs",
+            }
     },
     {
       name: "Bugdom 2",
@@ -838,6 +876,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://img.tapimg.net/market/images/6fc7ab57f3e1939768435366e9e4ba67.jpg/appicon?t=1",
       category: "datafile",
       link: "https://www.mediafire.com/folder/fq8gvvk43d14k/Bugdom_2",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "126 MBs",
+            }
     },
     {
       name: "Doom RPG",
@@ -845,6 +888,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://img.utdstc.com/icon/a40/0ac/a400ace6a4d6bcfe638f8520f5746ef674e6b0c48a9c121c1ee0c089a6713eeb:200",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/DoomRPG.zip",
+      details: {
+        author: "jakubuto",
+        version: "v.1.1.0",
+        size: "1895 KBs",
+            }
     },
     {
       name: "Doom II RPG",
@@ -852,6 +900,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AvwLO_I-qGuuZ8Ue4p_RgfY9OI7JwUyhLQ&s",
       category: "datafile",
       link: "https://www.mediafire.com/folder/smyb6tqeyheu8/Doom_II_RPG",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "48 MBs",
+            }
     },
     {
       name: "Doom 64EX",
@@ -859,6 +912,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse1.mm.bing.net/th?id=OIP.UnE8kJILj547Sk1HTg1Z1gHaGq&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Doom64EX%20%28Steam%20Version%29.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0.1",
+        size: "10.8 MBs",
+            }
     },
     {
       name: "Nazi Zombies Portable",
@@ -1006,14 +1064,14 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       name: "Kindergarten 2",
       image:
-        "https://media.discordapp.net/attachments/1180478475669348444/1365794458691698891/header_1_1.jpg?ex=680e9ab6&is=680d4936&hm=ad8ab9c3bfc2ac4a98832c4bbb4342a8e82f02fc3255c4d06685e13aa8af2db9&=&format=webp",
+        "https://www.vita.unaux.com/img/kg2.webp",
       category: "datafile",
       link: "https://static.tvtropes.org/pmwiki/pub/images/kindergarten2_principal.png",
     },
       {
       name: "Minecraft Enhanced",
       image:
-        "https://media.discordapp.net/attachments/1180478475669348444/1365793738399547462/890syreavulb1_1.jpg?ex=680e9a0a&is=680d488a&hm=4604ce9c3cc363ebc48193c7375d471c0f85cb2d974a4c7851d15758f7dbd962&=&format=webp",
+        "https://www.vita.unaux.com/img/mce.webp",
       link: "https://mega.nz/folder/eR0DlDiB#TOeKW_YrHnMvxGeqXUcryg",
       category: "mod",
     },
