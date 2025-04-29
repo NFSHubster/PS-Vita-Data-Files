@@ -964,6 +964,11 @@ document.addEventListener("DOMContentLoaded", function () {
       image: "https://pbs.twimg.com/profile_images/1463612941987635200/mJBVkohQ_400x400.jpg",
       category: "datafile",
       link: "https://github.com/nzp-team/nzportable/releases/download/nightly/nzportable-vita.zip",
+      details: {
+        author: "NZ:P Team",
+        version: "v.2.0.0",
+        size: "47.3 MBs",
+            }
     },
     {
       name: "Duke Nukem 3D",
@@ -971,6 +976,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/59522abf33396/duke-nukem-3d.png",
       category: "datafile",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Duke%20Nukem%203D.7z",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "172 MBs",
+            }
     },
     {
       name: "Geometry Dash",
@@ -978,6 +988,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Logo_of_Geometry_Dash.svg/800px-Logo_of_Geometry_Dash.svg.png",
       category: "datafile",
       link: "https://www.mediafire.com/file/x74x5a97qflan7m/GD-v1.01.zip/file",
+      details: {
+        author: "hatoving",
+        version: "v.1.02",
+        size: "225.86 MBs",
+            }
     },
     {
       name: "Anomaly Korea",
@@ -985,6 +1000,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/59522ae51b641/anomaly-korea.png",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Anomaly%20Korea.7z",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.2",
+        size: "290 MBs",
+            }
     },
     {
       name: "Anomaly Defenders",
@@ -992,6 +1012,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/59522b92dd426/anomaly-defenders.png",
       category: "datafile",
       link: "https://www.mediafire.com/folder/eifmnno14yflv/Anomaly_Defenders",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.1",
+        size: "827 MBs",
+            }
     },
     {
       name: "Anomaly Warzone Earth",
@@ -999,6 +1024,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://cdn.mobygames.com/d5bb1cec-abf2-11ed-b206-02420a000131.webp",
       category: "datafile",
       link: "https://www.mediafire.com/folder/q2tl7dhtm8a52/Anomaly_Warzone_Earth",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.2",
+        size: "153 MBs",
+            }
     },
     {
       name: "Anomaly 2",
@@ -1006,6 +1036,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqlJSnuFKaXkP75roOYDqjxCt8QULlrTwKQ&s",
       category: "datafile",
       link: "https://www.mediafire.com/folder/x0bq1lau6kbsg/Anomaly_2",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.2",
+        size: "1 GB",
+            }
     },
     {
       name: "Quake",
