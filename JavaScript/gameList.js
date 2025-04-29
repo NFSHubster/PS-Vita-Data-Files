@@ -255,6 +255,42 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     },
     {
+      name: "Franbow Chapter 3",
+      image:
+        "https://play-lh.googleusercontent.com/GqJZHn8dx7Cae4vqdZq9uTG3pI2NE1Mn2ufTS90ner3pDVFpjBQNpY56YEedOkxwvZ6_",
+      category: "datafile",
+      link: "https://drive.google.com/drive/folders/1BAnvRyJHairY8fG89OnpHhy_DfL61hFZ?usp=sharing",
+      details: {
+  author: "hatoving",
+  version: "v1.0",
+  size: "219.4 MBs",
+      }
+    },
+    {
+      name: "Franbow Chapter 4",
+      image:
+        "https://play-lh.googleusercontent.com/pPIpIrFuEcEeSeud0mN5lOKy-O9eb-gvWk7wdzXmoUfi9c67vNZ9xdMGO6wu3GxZqVM",
+      category: "datafile",
+      link: "https://drive.google.com/drive/folders/152-NS6ZkLP1Eep8y8o6v9lDLQmR7jdMN?usp=sharing",
+      details: {
+  author: "hatoving",
+  version: "v1.00",
+  size: "116.2 MBs",
+      }
+    },
+    {
+      name: "LOVE",
+      image:
+        "https://pdacdn.com/app/5f015182381f4/love.png",
+      category: "datafile",
+      link: "https://drive.google.com/drive/folders/1ofxqlIQSRghsN9xjHaefkNJDQWfV1qTz?usp=sharing",
+      details: {
+  author: "hatoving",
+  version: "v1.00",
+  size: "38.9 MBs",
+      }
+    },
+    {
       name: "xash3d/Half-Life & Counter Strike",
       image:
         "https://image.winudf.com/v2/image/aW4uY2VsZXN0Lnhhc2gzZC5obF9pY29uXzE1MzE2MDU4OTlfMDQ5/icon.png?w=184&fakeurl=1",
