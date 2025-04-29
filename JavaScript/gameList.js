@@ -856,6 +856,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/59522c2382277/crashlands.png",
       category: "datafile",
       link: "https://www.mediafire.com/file/h803vpygycl2tc4/CRASHLAND_-_With_game_data_-_FIXED_ERROR__0x80870005.VPK/file",
+      details: {
+        author: "m1s3ry",
+        version: "v.1.0.0",
+        size: "68.07 MBs",
+            }
       
     },
     {
