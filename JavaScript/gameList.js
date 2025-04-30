@@ -171,6 +171,18 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     },
     {
+      name: "Cook, Serve, Delicious! 3?!",
+      image:
+        "https://www.cookservedelicious.com/yum/wp-content/uploads/2019/07/csd3_logo_final_transparent_500x_stroke.png",
+      category: "datafile",
+      link: "https://drive.google.com/drive/folders/1d9CRaUbTp4q44LDzhRG3zUKnhDxlrW_N?usp=sharing",
+      details: {
+  author: "MDashK",
+  version: "v1.0",
+  size: "269.4 MBs",
+      }
+    },
+    {
       name: "Flop Rocket",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0fgUjl_hWbtKrSjN2U8MtvPgXpsUKCBhdg&s",
@@ -288,6 +300,18 @@ document.addEventListener("DOMContentLoaded", function () {
   author: "hatoving",
   version: "v1.00",
   size: "38.9 MBs",
+      }
+    },
+    {
+      name: "VVVVVV",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rhau3sLorFbNKZoU4A7eNPtN3ZxcnM6U-g&s",
+      category: "datafile",
+      link: "https://drive.google.com/drive/folders/13aS4AYL0ebsCPN75rANBQM4qBAji57B5?usp=sharing",
+      details: {
+  author: "isage",
+  version: "v2.3.4-vita",
+  size: "60.6 MBs",
       }
     },
     {
@@ -1048,6 +1072,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/5ec1af4db739e/quake-i-logo.png",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.4.1",
+        size: "21.4 MBs",
+            }
     },
     {
       name: "Quake 2",
@@ -1055,13 +1084,23 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://pdacdn.com/app/5ec2a8076185b/quake-ii-logo.png",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake2.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.2.4",
+        size: "263 GB",
+            }
     },
     {
-      name: "Quake 3 Arena",
+      name: "Quake 3 Arena + Quake Team Arena",
       image:
         "https://dl.apkawards.com/moda/dl29/games/Quake_III/img/Quake_III.png",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Quake%203.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.3",
+        size: "1.3 GB",
+            }
     },
     {
       name: "Let's Golf 2",
@@ -1069,6 +1108,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://upload.wikimedia.org/wikipedia/en/0/01/Let%27s_Golf_2_Cover.jpg",
       category: "datafile",
       link: "https://www.mediafire.com/file/g9m8us89k5tn4f4/letsgolf2.7z/file",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "93.36 MBs",
+            }
     },
     {
       name: "Super Mario World",
@@ -1076,6 +1120,35 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse4.mm.bing.net/th?id=OIP.VUi0UwdFc5W6koHYpfT1WAHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://www.mediafire.com/file/90r5gzd8jylrpkh/SMW.zip",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "1.4 MBs",
+            }
+    },
+    {
+      name: "uMario",
+      image:
+        "https://assets.apk.live/group.werdoes.app.nes20131432556--37-icon.png",
+      category: "datafile",
+      link: "https://github.com/WeegeeDEVELOPER/uMario-PSVita-Port/releases/download/1.2.7/uMario.vpk",
+      details: {
+        author: "WegeeDEVELOPER",
+        version: "v.1.2.7",
+        size: "17.9 MBs",
+            }
+    },
+    {
+      name: "uMario",
+      image:
+        "https://assets.apk.live/group.werdoes.app.nes20131432556--37-icon.png",
+      category: "datafile",
+      link: "https://github.com/hammerill/uMario_Vita/releases/download/1.00/uMario.vpk",
+      details: {
+        author: "hammerill",
+        version: "v.1.00",
+        size: "24.4 MBs",
+            }
     },
     {
       name: "Dungeons and Degenerate Gamblers",
@@ -1083,6 +1156,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://apkvision.org/wp-content/uploads/2024/08/31291031-1.png",
       category: "datafile",
       link: "https://pixeldrain.com/u/K5exdgSd",
+      details: {
+        author: "pvzcheatoos",
+        version: "v.1.00",
+        size: "27.8 MBs",
+            }
     },
     {
       name: "Real Football 2011",
@@ -1090,6 +1168,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://archive.org/download/real-football-2011_202301/mzi.thpudjug.png",
       category: "datafile",
       link: "https://www.mediafire.com/file/tleqenm0oqj7bbf/realfootball.7z/file",
+      details: {
+        author: "Rinnegatamante",
+        version: "v.1.0",
+        size: "192.25 MBs",
+            }
     },
     {
       name: "Sonic Mania",
@@ -1097,6 +1180,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://www.tierragamer.com/wp-content/uploads/2018/01/SonicManiaOST.jpg",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic%20Mania.7z",
+      details: {
+        author: "SonicMastr",
+        version: "v.1.1",
+        size: "193 MBs",
+            }
     },
     {
       name: "Sonic 1",
@@ -1104,6 +1192,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://image.winudf.com/v2/image1/Y29tLnNlZ2Euc29uaWMxcHhfaWNvbl8xNjU0NDkwODA3XzA4NQ/icon.webp?w=140&fakeurl=1&type=.webp",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic1.zip",
+      details: {
+        author: "SonicMastr",
+        version: "v.1.1.0",
+        size: "33.4 MBs",
+            }
     },
     {
       name: "Sonic 2",
@@ -1111,18 +1204,33 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://play-lh.googleusercontent.com/_osEK-4f1M2v_XdutbH3Mc4655GV2HJJ0q3uI62uSwv0TVDgIo5yXawRo_InTUifq0Q",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/Sonic2.zip",
+      details: {
+        author: "SonicMastr",
+        version: "v.1.1.0",
+        size: "39.8 MBs",
+            }
     },
     {
       name: "Sonic 3 A.I.R",
       image: "https://sonic-fangames.com/wp-content/uploads/2024/08/sonic-air-3.webp",
       category: "datafile",
       link: "https://www.mediafire.com/file_premium/fxod0clmxnunli8/Sonic_3_A.I.R._PS_VITA_PORT_%255BData_Files_%2526_VPK_Included%255D.zip/file",
+      details: {
+        author: "gl33ntwine",
+        version: "beta-2",
+        size: "134.89 MBs",
+            }
     },
     {
-      name: "Sonic 3 S.M.S",
+      name: "Sonic S.M.S 3",
       image: "https://sonic-fangames.com/wp-content/uploads/2024/04/Sonic-3-SMS_Fangame.webp",
       category: "datafile",
       link: "https://www.mediafire.com/file/5og3nljnau8dah6/Sonic_3_SMS.vpk/file",
+      details: {
+        author: "STLcardsWS",
+        version: "v1.0",
+        size: "16.8 MBs",
+            }
     },
     {
       name: "Sonic CD",
@@ -1130,19 +1238,34 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse2.mm.bing.net/th?id=OIP.W0M0trBgBYrQ-ARz9RrtBAHaHa&pid=Api&P=0&h=220",
       category: "datafile",
       link: "https://archive.org/download/psv-homebrew/Data%20Files/SonicCD.zip",
+      details: {
+        author: "SonicMastr",
+        version: "alpha-0.2",
+        size: "82.2 MBs",
+            }
     },
     {
       name: "Kindergarten 1",
       image: "https://pdacdn.com/app/63c2477ae2eaa/27290908.png",
       category: "datafile",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/Kindergarten%201.vpk",
+      details: {
+        author: "PatnosD",
+        version: "v1.0",
+        size: "34.1 MBs",
+            }
     },
     {
       name: "Kindergarten 2",
       image:
         "https://www.vita.unaux.com/img/kg2.webp",
       category: "datafile",
-      link: "https://static.tvtropes.org/pmwiki/pub/images/kindergarten2_principal.png",
+      link: "https://drive.google.com/drive/folders/1Q8CbRvgFErs7ad7VdQDlaHFS3e-Qyppl?usp=sharing",
+      details: {
+        author: "PatnosD",
+        version: "v1.0",
+        size: "16.8 MBs",
+            }
     },
       {
       name: "Minecraft Enhanced",
@@ -1150,6 +1273,59 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://www.vita.unaux.com/img/mce.webp",
       link: "https://mega.nz/folder/eR0DlDiB#TOeKW_YrHnMvxGeqXUcryg",
       category: "mod",
+        details: {
+        author: "PG Team",
+        version: "v1.0",
+        size: "2.19 GBs",
+            }
+    },
+    {
+      name: "Grand Theft Auto III 10th Anniversary Edition (RE Mod)",
+      image:
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGV0eTp6kUs1r7_HkcE7y4VbHl5Nh8eW2wvQ&s",
+      link: "https://drive.google.com/file/d/1i-YMInM1jUHOW6yaRT-0SzOxMBnZqZ0d/view?usp=sharing",
+      category: "mod",
+        details: {
+        author: "PG Team",
+        version: "v1.2",
+        size: "1 GB",
+            }
+    },
+    {
+      name: "Grand Theft Auto VC 10th Anniversary Edition (RE Mod)",
+      image:
+        "https://www.rockstarmag.fr/wp-content/uploads/2018/01/Grand-Theft-Auto-Vice-City-10th-Anniversary.png",
+      link: "https://drive.google.com/file/d/1M8wAYjxortJwB8WPabtg3vvkYa06fyWD/view?usp=sharing",
+      category: "mod",
+        details: {
+        author: "PG Team",
+        version: "v1.0",
+        size: "165 MBs",
+            }
+    },
+    {
+      name: "Grand Theft Auto SA PC Anniversary Edition (RE Mod)",
+      image:
+        "https://image.winudf.com/v2/image1/Y29tLnJvY2tzdGFyZ2FtZXMuZ3Rhc2FfaWNvbl8xNTU1Mzk0MjQ4XzAxOA/icon.png?w=184&fakeurl=1",
+      link: "https://drive.google.com/file/d/1K-79acCShXwd1VI3g4IZEAqEl-DUjLp_/view?usp=sharing",
+      category: "mod",
+        details: {
+        author: "PG Team",
+        version: "v1.0",
+        size: "881 MBs",
+            }
+    },
+    {
+      name: "Max Payne PC Anniversary Edition",
+      image:
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/5f/e4/1e/5fe41e51-3d3b-d396-cb4a-923322bfe4b4/source/512x512bb.jpg",
+      link: "https://drive.google.com/file/d/1jxv48hw-ImIbZv6aHhcPjoFSpoJmrNZb/view?usp=sharing",
+      category: "mod",
+        details: {
+        author: "PG Team",
+        version: "v1.1",
+        size: "12.6 MBs",
+            }
     },
     {
       name: "Minecraft Updated: 1st file",
@@ -1171,7 +1347,15 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse3.mm.bing.net/th?id=OIP.y-_O8XY42vAJxufgVxf5JwHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Borderlands%202%20Patch.7z",
       category: "mod",
-      footer: "A Homebrew patch that was created to make Borderlands 2 playable on the PlayStation Vita at a stable 30 FPS"
+      footer: "Notes: Use VitaGrafix to set the Framebuffer to: 640x368,update the game to the latest patch v1.09,and overclock your Vita's CPU to 500 MHz,GPU to 222 MHz,& XBAR to 166 MHz,use this mod with the game's thread optimizer profile for maximum efficiency to reduce the game's infamous lag"
+    },
+    {
+      name: "Borderlands 2 Thread Optimizer Profile",
+      image:
+        "https://tse3.mm.bing.net/th?id=OIP.y-_O8XY42vAJxufgVxf5JwHaHa&pid=Api&P=0&h=220",
+      link: "https://drive.google.com/file/d/1uBtGawSbVrmIg4sNicmcAxgSXt1U7eKp/view",
+      category: "mod",
+      footer: "Notes: Paste the config.dat in ux0/data/ThreadOptimizer/<titleid>"
     },
     {
       name: "Need For Speed: Most Wanted Upgrades",
@@ -1179,7 +1363,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://tse3.mm.bing.net/th?id=OIP.q_LYK8LK1fyMx8SWhzyDZwHaHa&pid=Api&P=0&h=220",
       link: "https://archive.org/download/psvita-homebrew-collection-1-14-2024/PSVita/Homebrew/Games/_Special%20Install_/Need%20for%20Speed%20Most%20Wanted%20Upgrades.7z",
       category: "mod",
-      footer: "This modpack includes the NFS MW REDUX modification and adds custom cars such as police vehicles & multiplayer cars"
+      footer: "This modpack includes NFS MW Redux,& a car pack that adds bonus and multiplayer cars"
     },
     {
       name: "Dirty Fantasy (NSFW)",
