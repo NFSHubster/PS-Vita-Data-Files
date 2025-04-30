@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", function () {
       image:
         "https://image.api.playstation.com/vulcan/ap/rnd/202401/2218/d8c5d5861249cd80a300efb723450f56d0347e4345e2eb80.png",
       category: "datafile",
-      link: "https://www.mediafire.com/file/o5f7z5l2m8o8b97/Balatro_V0.11.vpk/file",
+      link: "https://www.mediafire.com/file/r9x6x3xr5bswaed/Balatro_V0.12.vpk/file",
       details: {
   author: "Daexxxx",
   version: "v0.11",
@@ -1333,6 +1333,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMaFMtCe0cyygKC6CCo5voIOgStocQBPSzQ&s",
       link: "https://www.mediafire.com/file/5s1jf3qrliycttx/Minecraft_Updated_RePatch.zip/file",
       category: "mod",
+      details: {
+        author: "LOY091",
+        version: "v1.1",
+        size: "65.22 MBs",
+            }
     },
     {
       name: "Minecraft Updated: 2nd file",
@@ -1340,6 +1345,11 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMaFMtCe0cyygKC6CCo5voIOgStocQBPSzQ&s",
       link: "https://www.mediafire.com/file/lqcgwqg1dsbvd2z/mcu_1.1.zip/file",
       category: "mod",
+      details: {
+        author: "LOY091",
+        version: "v1.1",
+        size: "1015.3 MBs",
+            }
     },
     {
       name: "Borderlands 2 Patch",
