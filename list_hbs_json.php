@@ -58,5 +58,5 @@
   "long_description": "",
   "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=733",
   "data": "https://dn721608.ca.archive.org/0/items/psv-homebrew/Data%20Files/Final%20Fantasy%205%20%28ff5%29.zip"
-},
+}
 ]
