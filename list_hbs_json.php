@@ -8,12 +8,12 @@
   "titleid": "BALATROPS",
   "screenshots": "screenshots/64e51442e44094b74e771c794501b4f45ca990c7df1dfec687b36d1e2411f76f.png;screenshots/fb818a377526f055a811f8a9abab780fa2c74a323163616627c9216050a79945.png;screenshots/6a75d3201ee1a12dbfe2c21b24af0017e9dab6a107501156aa9d5f72ef4611f0.png;screenshots/528c931df6640b07bbaff6b6947dedbde94e71bd9bd4ded2a37c6f66a72690b2.png",
   "long_description": "",
-  "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1259"
+  "url": "https://archive.org/download/dfr_2009/Balatro%20V0.13.vpk"
 },
 {
   "name": "Hollow Knight",
   "version": "v.0.81 Hotfix",
-  "author": "fgsfdsfgs",
+  "author": "PatnosD",
   "description": "A homebrew port of Hollow Knight for the PS Vita.",
   "date": "2025-01-19",
   "titleid": "HKVT12222",
@@ -35,6 +35,18 @@
   "data": "https://archive.org/download/psv-homebrew/Data%20Files/masseffect.zip"
 },
 {
+  "name": "Dead Space Mobile",
+  "version": "v.1.0",
+  "author": "v-atamanenko",
+  "description": "A wrapper/port of Dead Space Mobile for the PS Vita.",
+  "date": "2023-01-13",
+  "titleid": "DEADSPACE",
+  "screenshots": "screenshots/64e51442e44094b74e771c794501b4f45ca990c7df1dfec687b36d1e2411f76f.png;screenshots/fb818a377526f055a811f8a9abab780fa2c74a323163616627c9216050a79945.png;screenshots/6a75d3201ee1a12dbfe2c21b24af0017e9dab6a107501156aa9d5f72ef4611f0.png;screenshots/528c931df6640b07bbaff6b6947dedbde94e71bd9bd4ded2a37c6f66a72690b2.png",
+  "long_description": "",
+  "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=999",
+  "data": "https://archive.org/download/psv-homebrew/Data%20Files/Deadspace_port.zip"
+},
+{
   "name": "Simpsons Hit & Run",
   "version": "v.1.0",
   "author": "v-atamanenko",
@@ -45,6 +57,18 @@
   "long_description": "",
   "url": "https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/releases/download/v0.6.1/SimpsonsNTSC.vpk",
   "data": "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z"
+},
+{
+  "name": "Death Road To Canada",
+  "version": "v.1.0",
+  "author": "Rinnegatamante",
+  "description": "A wrapper/port of Death Road To Canada for the PS Vita.",
+  "date": "2022-07-29",
+  "titleid": "DTHRTCANA",
+  "screenshots": "screenshots/64e51442e44094b74e771c794501b4f45ca990c7df1dfec687b36d1e2411f76f.png;screenshots/fb818a377526f055a811f8a9abab780fa2c74a323163616627c9216050a79945.png;screenshots/6a75d3201ee1a12dbfe2c21b24af0017e9dab6a107501156aa9d5f72ef4611f0.png;screenshots/528c931df6640b07bbaff6b6947dedbde94e71bd9bd4ded2a37c6f66a72690b2.png",
+  "long_description": "",
+  "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=846",
+  "data": "https://archive.org/download/psv-homebrew/Data%20Files/Death%20Road%20to%20Canada.7z"
 },
 {
   "name": "Need for Speed Hot Pursuit",
