@@ -23,6 +23,17 @@
   "data": "https://archive.org/download/psv-homebrew/Data%20Files/HollowKnightVita.zip"
 },
 {
+  "name": "Cuphead",
+  "version": "v.0.82",
+  "author": "PatnosD",
+  "description": "A homebrew port of Cuphead for the PS Vita.",
+  "date": "2024-10-10",
+  "titleid": "CPHD00001",
+  "screenshots": "screenshots/64e51442e44094b74e771c794501b4f45ca990c7df1dfec687b36d1e2411f76f.png;screenshots/fb818a377526f055a811f8a9abab780fa2c74a323163616627c9216050a79945.png;screenshots/6a75d3201ee1a12dbfe2c21b24af0017e9dab6a107501156aa9d5f72ef4611f0.png;screenshots/528c931df6640b07bbaff6b6947dedbde94e71bd9bd4ded2a37c6f66a72690b2.png",
+  "long_description": "",
+  "url": "https://archive.org/download/dfr_2009/Cuphead%20V0.82.vpk"
+},
+{
   "name": "Mass Effect Infiltrator",
   "version": "v.1.0",
   "author": "v-atamanenko",
@@ -49,7 +60,7 @@
 {
   "name": "Simpsons Hit & Run",
   "version": "v.1.0",
-  "author": "v-atamanenko",
+  "author": "ZenoArrows",
   "description": "A wrapper/port of Mass Effect Infiltrator for the PS Vita.",
   "date": "2022-11-21",
   "titleid": "SIMPSONSH",
@@ -85,7 +96,7 @@
 {
   "name": "Battlefield Bad Company 2",
   "version": "v.1.0",
-  "author": "Electry",
+  "author": "Rinnegatamante",
   "description": "A wrapper/port of Battlefield Bad Company 2 for the PS Vita.",
   "date": "2021-08-01",
   "titleid": "BBD200000",
@@ -97,7 +108,7 @@
 {
   "name": "Diablo",
   "version": "v.1.0",
-  "author": "Electry",
+  "author": "Diasurgical",
   "description": "A homebrew port of Diablo 1 for the PS Vita.",
   "date": "2025-02-08",
   "titleid": "DEVX00000",
@@ -105,6 +116,17 @@
   "long_description": "",
   "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=600",
   "data": "https://archive.org/download/psv-homebrew/Data%20Files/Diablo%20%28DevilutionX%29.zip"
+},
+{
+  "name": "Super Mario 64",
+  "version": "v.1.0",
+  "author": "bythos14",
+  "description": "A homebrew port of Super Mario 64 for the PS Vita.",
+  "date": "2025-02-08",
+  "titleid": "SPM640000",
+  "screenshots": "screenshots/64e51442e44094b74e771c794501b4f45ca990c7df1dfec687b36d1e2411f76f.png;screenshots/fb818a377526f055a811f8a9abab780fa2c74a323163616627c9216050a79945.png;screenshots/6a75d3201ee1a12dbfe2c21b24af0017e9dab6a107501156aa9d5f72ef4611f0.png;screenshots/528c931df6640b07bbaff6b6947dedbde94e71bd9bd4ded2a37c6f66a72690b2.png",
+  "long_description": "",
+  "url": "https://archive.org/download/psv-homebrew/Data%20Files/Mario%2064%20%26%20Mods.zip/Mario%2064%20%26%20Mods%2FSuper%20Mario%2064%20a%2060%20FPS_TR.vpk"
 },
 {
   "name": "Max Payne",
