@@ -10,7 +10,7 @@
   "long_description": "",
   "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1188",
   "data": "https://dn721608.ca.archive.org/0/items/psv-homebrew/Data%20Files/Fina%20Fantasy%20Dimensions.zip"
-}
+},
 {
   "name": "Final Fantasy 3",
   "version": "v.1.1",
