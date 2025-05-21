@@ -1,7 +1,7 @@
 [
 {
   "name": "Hollow Knight",
-  "version": "r4",
+  "version": "v.0.81 Hotfix",
   "author": "fgsfdsfgs",
   "description": "A homebrew port of Hollow Knight to PS Vita.",
   "date": "2025-01-19",
@@ -10,6 +10,30 @@
   "long_description": "",
   "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1168",
   "data": "https://archive.org/download/psv-homebrew/Data%20Files/HollowKnightVita.zip"
+},
+{
+  "name": "Mass Effect Infiltrator",
+  "version": "v.1.0",
+  "author": "v-atamanenko",
+  "description": "A wrapper/port of Mass Effect Infiltrator to PS Vita.",
+  "date": "2022-11-21",
+  "titleid": "MASSEFFEC",
+  "screenshots": "screenshots/64e51442e44094b74e771c794501b4f45ca990c7df1dfec687b36d1e2411f76f.png;screenshots/fb818a377526f055a811f8a9abab780fa2c74a323163616627c9216050a79945.png;screenshots/6a75d3201ee1a12dbfe2c21b24af0017e9dab6a107501156aa9d5f72ef4611f0.png;screenshots/528c931df6640b07bbaff6b6947dedbde94e71bd9bd4ded2a37c6f66a72690b2.png",
+  "long_description": "",
+  "url": "https://www.rinnegatamante.eu/vitadb/get_hb_url.php?id=1019",
+  "data": "https://archive.org/download/psv-homebrew/Data%20Files/masseffect.zip"
+},
+{
+  "name": "Simpsons Hit & Run",
+  "version": "v.1.0",
+  "author": "v-atamanenko",
+  "description": "A wrapper/port of Mass Effect Infiltrator to PS Vita.",
+  "date": "2022-11-21",
+  "titleid": "SIMPSONSH",
+  "screenshots": "screenshots/64e51442e44094b74e771c794501b4f45ca990c7df1dfec687b36d1e2411f76f.png;screenshots/fb818a377526f055a811f8a9abab780fa2c74a323163616627c9216050a79945.png;screenshots/6a75d3201ee1a12dbfe2c21b24af0017e9dab6a107501156aa9d5f72ef4611f0.png;screenshots/528c931df6640b07bbaff6b6947dedbde94e71bd9bd4ded2a37c6f66a72690b2.png",
+  "long_description": "",
+  "url": "https://github.com/ZenoArrows/The-Simpsons-Hit-and-Run/releases/download/v0.6.1/SimpsonsNTSC.vpk",
+  "data": "https://archive.org/download/psv-homebrew/Data%20Files/Simpsons%20Hit%20%26%20Run%20%28Original%20Cutscenes%29.7z"
 },
 {
   "name": "Max Payne",
