@@ -148,7 +148,6 @@
     "date": "2025-07-09",
     "titleid": "BALA00001",
     "screenshots": "",
-    "data_size": "",
     "url": "https://archive.org/download/dfr_2009/Balatro.vpk"
   },
   {
