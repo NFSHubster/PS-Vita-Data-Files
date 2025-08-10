@@ -23,9 +23,7 @@
     "titleid": "AMTR01693",
     "screenshots": "",
     "size": "285.2M",
-    "data_size": "",
-    "url": "https://archive.org/download/dfr_2009/AM2R.vpk",
-    "data": ""
+    "url": "https://archive.org/download/dfr_2009/AM2R.vpk"
   },
   {
     "name": "Anomaly 2",
@@ -147,7 +145,8 @@
     "long_description": "Balatro is a platformer game featuring colorful levels, precise controls, and challenging gameplay designed for fans of classic 2D platformers.",
     "date": "2025-07-09",
     "titleid": "BALA00001",
-    "screenshots": "",
+    "screenshots": "43.9M",
+    "size": "1.7M",
     "url": "https://archive.org/download/dfr_2009/Balatro.vpk"
   },
   {
