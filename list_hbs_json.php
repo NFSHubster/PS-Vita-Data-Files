@@ -760,7 +760,9 @@
     "date": "2025-07-13",
     "titleid": "",
     "screenshots": "",
+    "size": "4.7M",
     "data_size": "1.2M",
+    "url": "https://archive.org/download/dfr_2009/GemRB.vpk",
     "data": "https://archive.org/download/dfr_2009/GemRB%20Data.zip"
   },
   {
