@@ -193,7 +193,7 @@
     "size": "44.1M",
     "data_size": "",
     "url": "https://archive.org/download/dfr_2009/BigBoyBoxing.vpk",
-    "data": "",
+    "data": ""
   },
   {
     "name": "Biplanes Revival",
