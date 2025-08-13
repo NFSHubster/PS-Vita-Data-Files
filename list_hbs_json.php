@@ -37,7 +37,9 @@
     "titleid": "AMTR01693",
     "screenshots": "",
     "size": "285.2M",
-    "url": "https://archive.org/download/dfr_2009/AM2R.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/AM2R.vpk",
+    "data": ""
   },
   {
     "name": "Anomaly 2",
@@ -161,7 +163,9 @@
     "titleid": "BALA00001",
     "screenshots": "",
     "size": "43.9M",
-    "url": "https://archive.org/download/dfr_2009/Balatro.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Balatro.vpk",
+    "data": ""
   },
   {
     "name": "Battlefield Bad Company 2",
@@ -187,7 +191,9 @@
     "titleid": "BBBV04040",
     "screenshots": "",
     "size": "44.1M",
-    "url": "https://archive.org/download/dfr_2009/BigBoyBoxing.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/BigBoyBoxing.vpk",
+    "data": "",
   },
   {
     "name": "Biplanes Revival",
@@ -213,7 +219,9 @@
     "titleid": "BLPM12345",
     "screenshots": "",
     "size": "413.0M",
-    "url": "https://archive.org/download/dfr_2009/Blasphemous.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Blasphemous.vpk",
+    "data": ""
   },
   {
     "name": "Blockamok Remix",
@@ -225,9 +233,25 @@
     "titleid": "BLOC52665",
     "screenshots": "",
     "size": "2.5M",
-    "url": "https://archive.org/download/dfr_2009/Blockamok%20Remix.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Blockamok%20Remix.vpk",
+    "data": ""
   },
   {
+    "name": "Bugdom",
+    "version": "v1.3.4-vita.1",
+    "author": "ywnico",
+    "description": "A port of Bugdom to the PS Vita",
+    "long_description": "Bugdom is a 3D platformer where players control a bug navigating natural environments, collecting items, and avoiding dangerous creatures.",
+    "date": "2025-08-09",
+    "titleid": "BGDM00099",
+    "screenshots": "",
+    "size": "48.0M",
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Bugdom.vpk",
+    "data": ""
+  },
+   {
     "name": "Bugdom 2",
     "version": "v1.0",
     "author": "Rinnegatamante",
@@ -240,18 +264,6 @@
     "data_size": "124.2M",
     "url": "https://archive.org/download/dfr_2009/Bugdom%202.vpk",
     "data": "https://archive.org/download/dfr_2009/Bugdom%202.zip"
-  },
-  {
-    "name": "Bugdom",
-    "version": "v1.3.4-vita.1",
-    "author": "ywnico",
-    "description": "A port of Bugdom to the PS Vita",
-    "long_description": "Bugdom is a 3D platformer where players control a bug navigating natural environments, collecting items, and avoiding dangerous creatures.",
-    "date": "2025-08-09",
-    "titleid": "BGDM00099",
-    "screenshots": "",
-    "size": "48.0M",
-    "url": "https://archive.org/download/dfr_2009/Bugdom.vpk"
   },
   {
     "name": "Bully",
@@ -277,7 +289,9 @@
     "titleid": "CCFC12345",
     "screenshots": "",
     "size": "60.1M",
-    "url": "https://archive.org/download/dfr_2009/Cartoon%20Combatt%20Flying%20Circus.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Cartoon%20Combatt%20Flying%20Circus.vpk",
+    "data": ""
   },
   {
     "name": "Command & Conquer Red Alert",
@@ -317,7 +331,9 @@
     "titleid": "CSDLICIUS",
     "screenshots": "",
     "size": "82.0M",
-    "url": "https://archive.org/download/dfr_2009/Cook,Serve,Delicious.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Cook,Serve,Delicious.vpk",
+    "data": ""
   },
   {
     "name": "Crashlands",
@@ -329,7 +345,9 @@
     "titleid": "CRASHLAND",
     "screenshots": "",
     "size": "68.1M",
-    "url": "https://archive.org/download/dfr_2009/Crashlands.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Crashlands.vpk",
+    "data": ""
   },
   {
     "name": "Crazy Cattle",
@@ -341,7 +359,9 @@
     "titleid": "CCDV33333",
     "screenshots": "",
     "size": "42.3M",
-    "url": "https://archive.org/download/dfr_2009/Crazy%20Cattle.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Crazy%20Cattle.vpk",
+    "data": ""
   },
   {
     "name": "Crazy Taxi Classic",
@@ -367,7 +387,9 @@
     "titleid": "CPHD23233",
     "screenshots": "",
     "size": "321.5M",
-    "url": "https://archive.org/download/dfr_2009/Cuphead.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Cuphead.vpk",
+    "data": ""
   },
   {
     "name": "Dead Space Mobile",
@@ -407,7 +429,9 @@
     "titleid": "DELTARUNE",
     "screenshots": "",
     "size": "64.1M",
-    "url": "https://archive.org/download/dfr_2009/Deltarune.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Deltarune.vpk",
+    "data": ""
   },
   {
     "name": "Diablo",
@@ -433,7 +457,9 @@
     "titleid": "RNPYDDLC1",
     "screenshots": "",
     "size": "208.9M",
-    "url": "https://archive.org/download/dfr_2009/Doki%20Doki%20Literature%20Club.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Doki%20Doki%20Literature%20Club.vpk",
+    "data": ""
   },
   {
     "name": "Doom RPG",
@@ -501,7 +527,9 @@
     "titleid": "DROP54000",
     "screenshots": "",
     "size": "240.4M",
-    "url": "https://archive.org/download/dfr_2009/Dropsy.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Dropsy.vpk",
+    "data": ""
   },
   {
     "name": "DuckTales Remastered",
@@ -541,7 +569,9 @@
     "titleid": "DUNGEONS0",
     "screenshots": "",
     "size": "26.5M",
-    "url": "https://archive.org/download/dfr_2009/Dungeons%20&%20Degenerate.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Dungeons%20&%20Degenerate.vpk",
+    "data": ""
   },
   {
     "name": "Everlasting Summer",
@@ -553,7 +583,9 @@
     "titleid": "EVS000010",
     "screenshots": "",
     "size": "607.8M",
-    "url": "https://archive.org/download/dfr_2009/Everlasting%20Summer.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Everlasting%20Summer.vpk",
+    "data": ""
   },
   {
     "name": "FNaF World",
@@ -565,7 +597,9 @@
     "titleid": "GDOT00083",
     "screenshots": "",
     "size": "38.9M",
-    "url": "https://archive.org/download/dfr_2009/FNaF%20World.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/FNaF%20World.vpk",
+    "data": ""
   },
   {
     "name": "Fahrenheit Indigo Prophecy",
@@ -624,20 +658,6 @@
     "data": "https://archive.org/download/dfr_2009/Final%20Fantasy%203.zip"
   },
   {
-    "name": "Final Fantasy 4 The After Years",
-    "version": "v1.0.1",
-    "author": "Rinnegatamante & frangarcj",
-    "description": "A port of Final Fantasy 4 The After Years to the PS Vita",
-    "long_description": "Final Fantasy 4 The After Years continues the story of the original, introducing new characters and exploring the fates of the heroes in a richly detailed world.",
-    "date": "2025-07-13",
-    "titleid": "FF4AY0000",
-    "screenshots": "",
-    "size": "20.4M",
-    "data_size": "454.1M",
-    "url": "https://archive.org/download/dfr_2009/Final%20Fantasy%204%20The%20After%20Years.vpk",
-    "data": "https://archive.org/download/dfr_2009/Final%20Fantasy%204%20The%20After%20Years.zip"
-  },
-  {
     "name": "Final Fantasy 4",
     "version": "v1.3.1",
     "author": "Rinnegatamante & frangarcj",
@@ -650,6 +670,20 @@
     "data_size": "518.9M",
     "url": "https://archive.org/download/dfr_2009/Final%20Fantasy%204.vpk",
     "data": "https://archive.org/download/dfr_2009/Final%20Fantasy%204.zip"
+  },
+  {
+    "name": "Final Fantasy 4 The After Years",
+    "version": "v1.0.1",
+    "author": "Rinnegatamante & frangarcj",
+    "description": "A port of Final Fantasy 4 The After Years to the PS Vita",
+    "long_description": "Final Fantasy 4 The After Years continues the story of the original, introducing new characters and exploring the fates of the heroes in a richly detailed world.",
+    "date": "2025-07-13",
+    "titleid": "FF4AY0000",
+    "screenshots": "",
+    "size": "20.4M",
+    "data_size": "454.1M",
+    "url": "https://archive.org/download/dfr_2009/Final%20Fantasy%204%20The%20After%20Years.vpk",
+    "data": "https://archive.org/download/dfr_2009/Final%20Fantasy%204%20The%20After%20Years.zip"
   },
   {
     "name": "Final Fantasy 5",
@@ -703,7 +737,9 @@
     "titleid": "FLOPROCKE",
     "screenshots": "",
     "size": "44.3M",
-    "url": "https://archive.org/download/dfr_2009/Flop%20Rocket.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Flop%20Rocket.vpk",
+    "data": ""
   },
   {
     "name": "Franbow Chapter 1",
@@ -715,7 +751,9 @@
     "titleid": "FBOWCHAP1",
     "screenshots": "",
     "size": "94.3M",
-    "url": "https://archive.org/download/dfr_2009/Franbow%20Chapter%201.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Franbow%20Chapter%201.vpk",
+    "data": ""
   },
   {
     "name": "Franbow Chapter 2",
@@ -727,7 +765,9 @@
     "titleid": "FBOWCHAP2",
     "screenshots": "",
     "size": "146.8M",
-    "url": "https://archive.org/download/dfr_2009/Franbow%20Chapter%202.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Franbow%20Chapter%202.vpk",
+    "data": ""
   },
   {
     "name": "Franbow Chapter 3",
@@ -739,7 +779,9 @@
     "titleid": "FBOWCHAP3",
     "screenshots": "",
     "size": "217.8M",
-    "url": "https://archive.org/download/dfr_2009/Franbow%20Chapter%203.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Franbow%20Chapter%203.vpk",
+    "data": ""
   },
   {
     "name": "Franbow Chapter 4",
@@ -751,7 +793,9 @@
     "titleid": "FBOWCHAP4",
     "screenshots": "",
     "size": "116.0M",
-    "url": "https://archive.org/download/dfr_2009/Franbow%20Chapter%204.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Franbow%20Chapter%204.vpk",
+    "data": ""
   },
   {
     "name": "GUN GODZ",
@@ -763,7 +807,9 @@
     "titleid": "GUNGODZ00",
     "screenshots": "",
     "size": "21.3M",
-    "url": "https://archive.org/download/dfr_2009/GUN%20GODZ.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/GUN%20GODZ.vpk",
+    "data": ""
   },
   {
     "name": "GemRB Required Data + VPK",
@@ -929,7 +975,9 @@
     "titleid": "GUARDENER",
     "screenshots": "",
     "size": "9.4M",
-    "url": "https://archive.org/download/dfr_2009/Guardener.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Guardener.vpk",
+    "data": ""
   },
   {
     "name": "Hollow Knight",
@@ -941,7 +989,9 @@
     "titleid": "HKVT12222",
     "screenshots": "",
     "size": "382.1M",
-    "url": "https://archive.org/download/dfr_2009/Hollow%20Knight.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Hollow%20Knight.vpk",
+    "data": ""
   },
   {
     "name": "IMSCARED",
@@ -953,7 +1003,9 @@
     "titleid": "IMSCARED0",
     "screenshots": "",
     "size": "38.9M",
-    "url": "https://archive.org/download/dfr_2009/IMSCARED.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/IMSCARED.vpk",
+    "data": ""
   },
   {
     "name": "Into The Breach",
@@ -979,7 +1031,9 @@
     "titleid": "JUKI00088",
     "screenshots": "",
     "size": "24.2M",
-    "url": "https://archive.org/download/dfr_2009/Jump%20King.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Jump%20King.vpk",
+    "data": ""
   },
   {
     "name": "Kindergarten 1",
@@ -991,7 +1045,9 @@
     "titleid": "KNDRGRTN1",
     "screenshots": "",
     "size": "34.1M",
-    "url": "https://archive.org/download/dfr_2009/Kindergarten%201.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Kindergarten%201.vpk",
+    "data": ""
   },
   {
     "name": "Kindergarten 2",
@@ -1003,7 +1059,9 @@
     "titleid": "KNDRGRTN2",
     "screenshots": "",
     "size": "51.2M",
-    "url": "https://archive.org/download/dfr_2009/Kindergarten%202.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Kindergarten%202.vpk",
+    "data": ""
   },
   {
     "name": "LEGO Star Wars The Complete Saga",
@@ -1043,7 +1101,9 @@
     "titleid": "DACC22232",
     "screenshots": "",
     "size": "107.9M",
-    "url": "https://archive.org/download/dfr_2009/Lost%20On%20Island.vpk"
+    "data_size": "",
+    "url": "https://archive.org/download/dfr_2009/Lost%20On%20Island.vpk",
+    "data": ""
   },
   {
     "name": "Mad Bullets",
