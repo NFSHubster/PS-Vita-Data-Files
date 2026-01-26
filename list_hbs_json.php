@@ -7,7 +7,7 @@
     "long_description": "This is a wrapper/port of 32 Secs for the PS Vita.\nThe port works by loading the official Android ARMv7 executable in memory, resolving its imports with native functions and patching it in order to properly run. By doing so, it's basically as if we emulate a minimalist Android environment in which we run natively the executable as it is.",
     "date": "2025-07-13",
     "titleid": "32SECS032",
-    "screenshots": "https://www.rinnegatamante.eu/vitadb/screenshots/95deeb83f60d8cbd03751ee37ad16252b9eb01bc3df3ac7659ba24a768ab31fd.png",
+    "screenshots": "https://www.vita.unaux.com/screenshots/752bf8396d69ebe8c4a11ffb1a383c5eda6d48e70545ed3421680b26ac3d689d.png;https://www.vita.unaux.com/screenshots/95deeb83f60d8cbd03751ee37ad16252b9eb01bc3df3ac7659ba24a768ab31fd.png;https://www.vita.unaux.com/screenshots/abb96716624aa89d58b021b42800337224b426d467d9081d0c023175d4071e55.png;https://www.vita.unaux.com/screenshots/b949d875c554df38a621be34b3131ac3dec6cf71f8b943214366bd8d15d1cd94.png",
     "size": "2.6M",
     "data_size": "35.4M",
     "url": "https://archive.org/download/dfr_2009/32%20Secs.vpk",
